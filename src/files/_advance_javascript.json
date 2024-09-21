@@ -1,0 +1,135 @@
+{
+    "questions": [
+      {
+        "question": "What is the output of the following code: `(function(){ var a = b = 3; })(); console.log(b);`?",
+        "options": ["3", "ReferenceError", "undefined", "TypeError"],
+        "answer": "3"
+      },
+      {
+        "question": "What is the main difference between `setImmediate()` and `process.nextTick()` in Node.js?",
+        "options": [
+          "`setImmediate()` executes in the next iteration of the event loop, `process.nextTick()` runs before the next iteration",
+          "`setImmediate()` executes immediately, `process.nextTick()` runs in the next iteration",
+          "`setImmediate()` is for callbacks, `process.nextTick()` is for promises",
+          "They are the same"
+        ],
+        "answer": "`setImmediate()` executes in the next iteration of the event loop, `process.nextTick()` runs before the next iteration"
+      },
+      {
+        "question": "What is tail call optimization in JavaScript?",
+        "options": [
+          "It allows functions to be called recursively without growing the call stack",
+          "It optimizes the last function in a script to execute faster",
+          "It prevents function calls from being added to the call stack",
+          "It allows functions to be executed in parallel"
+        ],
+        "answer": "It allows functions to be called recursively without growing the call stack"
+      },
+      {
+        "question": "Which of the following is true about the `Object.defineProperty()` method?",
+        "options": [
+          "It allows defining non-enumerable properties",
+          "It is used to create new objects",
+          "It is used to define constants",
+          "It is used to copy properties from one object to another"
+        ],
+        "answer": "It allows defining non-enumerable properties"
+      },
+      {
+        "question": "What is the purpose of the `WeakMap` in JavaScript?",
+        "options": [
+          "To hold key-value pairs where keys are weakly referenced",
+          "To hold collections of weak references to objects",
+          "To store multiple values for the same key",
+          "To improve memory usage by avoiding circular references"
+        ],
+        "answer": "To hold key-value pairs where keys are weakly referenced"
+      },
+      {
+        "question": "What will be the output of `console.log([] + {});`?",
+        "options": ["[object Object]", "{}", "[]", "NaN"],
+        "answer": "[object Object]"
+      },
+      {
+        "question": "What is a generator function in JavaScript?",
+        "options": [
+          "A function that can be paused and resumed",
+          "A function that returns a new function",
+          "A function that can run indefinitely",
+          "A function that generates random numbers"
+        ],
+        "answer": "A function that can be paused and resumed"
+      },
+      {
+        "question": "What is the purpose of `Reflect` in JavaScript?",
+        "options": [
+          "It provides methods for intercepting JavaScript operations",
+          "It is used to reflect metadata of objects",
+          "It allows you to define new data types",
+          "It is used to optimize functions"
+        ],
+        "answer": "It provides methods for intercepting JavaScript operations"
+      },
+      {
+        "question": "What is the result of `Promise.resolve(42).finally(() => 43).then(console.log)`?",
+        "options": ["42", "43", "undefined", "Error"],
+        "answer": "42"
+      },
+      {
+        "question": "What is the output of the following code: `let obj = { a: 1 }; Object.freeze(obj); obj.a = 2; console.log(obj.a);`?",
+        "options": ["1", "2", "undefined", "TypeError"],
+        "answer": "1"
+      },
+      {
+        "question": "What is event delegation in JavaScript?",
+        "options": [
+          "A technique to handle events at a higher level in the DOM",
+          "Assigning multiple event listeners to child elements",
+          "Preventing the default event behavior",
+          "A method to asynchronously trigger events"
+        ],
+        "answer": "A technique to handle events at a higher level in the DOM"
+      },
+      {
+        "question": "What does the `Symbol.iterator` property do?",
+        "options": [
+          "It returns the default iterator for an object",
+          "It converts an object into an array",
+          "It iterates over object properties",
+          "It allows the creation of new iterable objects"
+        ],
+        "answer": "It returns the default iterator for an object"
+      },
+      {
+        "question": "Which of the following is true about `Proxy` objects in JavaScript?",
+        "options": [
+          "They allow intercepting and customizing fundamental operations",
+          "They create deep clones of objects",
+          "They prevent object modification",
+          "They handle asynchronous operations"
+        ],
+        "answer": "They allow intercepting and customizing fundamental operations"
+      },
+      {
+        "question": "What is the main benefit of using `requestAnimationFrame()` over `setTimeout()` for animations?",
+        "options": [
+          "`requestAnimationFrame()` ensures smoother animations synchronized with the display refresh rate",
+          "`requestAnimationFrame()` runs animations faster",
+          "`requestAnimationFrame()` allows pausing animations",
+          "`requestAnimationFrame()` automatically calculates the frame duration"
+        ],
+        "answer": "`requestAnimationFrame()` ensures smoother animations synchronized with the display refresh rate"
+      },
+      {
+        "question": "How do you make an object immutable in JavaScript?",
+        "options": [
+          "By using `Object.freeze()`",
+          "By using `const`",
+          "By using `let`",
+          "By using `Object.lock()`"
+        ],
+        "answer": "By using `Object.freeze()`"
+      }
+    ]
+  }
+  
