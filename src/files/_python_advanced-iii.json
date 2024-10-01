@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `async` and `await` keywords in Python?",
+        "options": [
+          "To define asynchronous functions and manage asynchronous operations.",
+          "To create decorators for functions.",
+          "To optimize memory usage.",
+          "To handle exceptions in a more readable way."
+        ],
+        "answer": "To define asynchronous functions and manage asynchronous operations.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What are metaclasses in Python?",
+        "options": [
+          "Classes of classes that define how a class behaves.",
+          "A special type of variable.",
+          "Functions that create instances of classes.",
+          "Built-in functions for class manipulation."
+        ],
+        "answer": "Classes of classes that define how a class behaves.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "How can you implement operator overloading in Python?",
+        "options": [
+          "By defining special methods in a class, like `__add__` or `__str__`.",
+          "By using built-in functions.",
+          "By creating subclasses.",
+          "By using decorators."
+        ],
+        "answer": "By defining special methods in a class, like `__add__` or `__str__`.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the difference between shallow copy and deep copy?",
+        "options": [
+          "Shallow copy creates a new object but inserts references into it, while deep copy creates a new object and recursively copies all objects.",
+          "Deep copy is faster than shallow copy.",
+          "Shallow copy copies only mutable objects, while deep copy copies both mutable and immutable objects.",
+          "There is no difference; they are interchangeable."
+        ],
+        "answer": "Shallow copy creates a new object but inserts references into it, while deep copy creates a new object and recursively copies all objects.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the Global Interpreter Lock (GIL) in Python?",
+        "options": [
+          "A mechanism that prevents multiple native threads from executing Python bytecodes at once.",
+          "A way to manage memory in Python.",
+          "A feature for optimizing performance in Python.",
+          "A lock for preventing file access."
+        ],
+        "answer": "A mechanism that prevents multiple native threads from executing Python bytecodes at once.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How do you handle exceptions in Python?",
+        "options": [
+          "Using the `try`, `except`, `else`, and `finally` blocks.",
+          "By defining custom error classes.",
+          "Using the `catch` statement.",
+          "By using the `raise` keyword."
+        ],
+        "answer": "Using the `try`, `except`, `else`, and `finally` blocks.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is a generator in Python?",
+        "options": [
+          "A special type of iterator that generates values on the fly.",
+          "A function that creates a new class.",
+          "A method for optimizing performance.",
+          "A built-in function for file handling."
+        ],
+        "answer": "A special type of iterator that generates values on the fly.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "How can you convert a function into a coroutine?",
+        "options": [
+          "By using the `async def` syntax.",
+          "By adding the `@coroutine` decorator.",
+          "By returning a generator.",
+          "By defining the function inside a class."
+        ],
+        "answer": "By using the `async def` syntax.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the purpose of the `with` statement in Python?",
+        "options": [
+          "To simplify exception handling and resource management.",
+          "To define a context for threading.",
+          "To create a new scope for variables.",
+          "To execute asynchronous functions."
+        ],
+        "answer": "To simplify exception handling and resource management.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "How can you create a singleton class in Python?",
+        "options": [
+          "By overriding the `__new__` method.",
+          "By using a class variable.",
+          "By creating a separate module.",
+          "By using the `@singleton` decorator."
+        ],
+        "answer": "By overriding the `__new__` method.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

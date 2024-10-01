@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is a correct syntax to output 'Hello World' in C++?",
+        "options": [
+          "`cout << 'Hello World';`",
+          "`System.out.println('Hello World');`",
+          "`echo 'Hello World';`",
+          "`printf('Hello World');`"
+        ],
+        "answer": "`cout << 'Hello World';`",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "Which of the following is used to define a constant in C++?",
+        "options": [
+          "`const` keyword",
+          "`#define` directive",
+          "`let` keyword",
+          "`constexpr` keyword"
+        ],
+        "answer": "`const` keyword",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the correct syntax to declare an integer variable in C++?",
+        "options": [
+          "`int x;`",
+          "`integer x;`",
+          "`int = x;`",
+          "`x integer;`"
+        ],
+        "answer": "`int x;`",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the correct syntax for a single-line comment in C++?",
+        "options": [
+          "`// Comment`",
+          "`/* Comment */`",
+          "`# Comment`",
+          "`<!-- Comment -->`"
+        ],
+        "answer": "`// Comment`",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "Which of the following is the correct syntax for a C++ `for` loop?",
+        "options": [
+          "`for (int i = 0; i < 10; i++)`",
+          "`for i in range(10)`",
+          "`for (int i = 0, i < 10, i++)`",
+          "`foreach(int i in 10)`"
+        ],
+        "answer": "`for (int i = 0; i < 10; i++)`",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "Which operator is used to allocate memory dynamically in C++?",
+        "options": [
+          "`new`",
+          "`malloc`",
+          "`alloc`",
+          "`allocate`"
+        ],
+        "answer": "`new`",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the return type of the `main` function in C++?",
+        "options": [
+          "`int`",
+          "`void`",
+          "`char`",
+          "`float`"
+        ],
+        "answer": "`int`",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "Which of the following is a loop control statement in C++?",
+        "options": [
+          "`break`",
+          "`return`",
+          "`exit`",
+          "`print`"
+        ],
+        "answer": "`break`",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the purpose of a header file in C++?",
+        "options": [
+          "To declare functions and macros.",
+          "To define a new data type.",
+          "To implement classes.",
+          "To execute the program."
+        ],
+        "answer": "To declare functions and macros.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the keyword used to define a class in C++?",
+        "options": [
+          "`class`",
+          "`struct`",
+          "`object`",
+          "`define`"
+        ],
+        "answer": "`class`",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

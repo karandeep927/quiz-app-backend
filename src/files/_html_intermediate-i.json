@@ -1,0 +1,196 @@
+{
+  "questions": [
+    {
+      "question": "What is the purpose of the `<!DOCTYPE html>` declaration?",
+      "options": [
+        "It specifies the HTML version and ensures the browser renders the page in standards mode.",
+        "It defines the character encoding of the document.",
+        "It links external CSS files to the HTML document.",
+        "It sets the viewport settings for responsive design."
+      ],
+      "answer": "It specifies the HTML version and ensures the browser renders the page in standards mode.",
+      "selectedOption": -1,
+      "questionNumber": 1
+    },
+    {
+      "question": "How do you create a multi-line comment in HTML?",
+      "options": [
+        "<!-- comment -->",
+        "// comment",
+        "/* comment */",
+        "# comment"
+      ],
+      "answer": "<!-- comment -->",
+      "selectedOption": -1,
+      "questionNumber": 2
+    },
+    {
+      "question": "What is the use of the `data-*` attribute in HTML?",
+      "options": [
+        "To store custom data on HTML elements.",
+        "To define the style of an element.",
+        "To link JavaScript functions to HTML elements.",
+        "To specify the source of an image."
+      ],
+      "answer": "To store custom data on HTML elements.",
+      "selectedOption": -1,
+      "questionNumber": 3
+    },
+    {
+      "question": "Which element is used to define a section in a webpage in HTML5?",
+      "options": [
+        "<section>",
+        "<div>",
+        "<article>",
+        "<header>"
+      ],
+      "answer": "<section>",
+      "selectedOption": -1,
+      "questionNumber": 4
+    },
+    {
+      "question": "What is the purpose of the `<noscript>` tag?",
+      "options": [
+        "To define content to be displayed if JavaScript is not supported or disabled.",
+        "To create a placeholder for scripts.",
+        "To link external JavaScript files.",
+        "To define a section of the document for JavaScript code."
+      ],
+      "answer": "To define content to be displayed if JavaScript is not supported or disabled.",
+      "selectedOption": -1,
+      "questionNumber": 5
+    },
+    {
+      "question": "How can you include a JavaScript file in an HTML document?",
+      "options": [
+        "<script src='file.js'></script>",
+        "<js src='file.js'></js>",
+        "<link rel='script' href='file.js'>",
+        "<include src='file.js'></include>"
+      ],
+      "answer": "<script src='file.js'></script>",
+      "selectedOption": -1,
+      "questionNumber": 6
+    },
+    {
+      "question": "Which HTML element is used to define a group of related form elements?",
+      "options": [
+        "<fieldset>",
+        "<group>",
+        "<form>",
+        "<section>"
+      ],
+      "answer": "<fieldset>",
+      "selectedOption": -1,
+      "questionNumber": 7
+    },
+    {
+      "question": "How do you define a hyperlink that opens in a new tab?",
+      "options": [
+        "<a href='url' target='_blank'>",
+        "<a href='url' target='new'>",
+        "<a href='url' new-tab>",
+        "<link href='url' target='_blank'>"
+      ],
+      "answer": "<a href='url' target='_blank'>",
+      "selectedOption": -1,
+      "questionNumber": 8
+    },
+    {
+      "question": "What is the purpose of the `<meta charset='UTF-8'>` tag?",
+      "options": [
+        "To specify the character encoding for the document.",
+        "To define the viewport settings.",
+        "To link to external CSS files.",
+        "To include JavaScript files."
+      ],
+      "answer": "To specify the character encoding for the document.",
+      "selectedOption": -1,
+      "questionNumber": 9
+    },
+    {
+      "question": "How do you create an ordered list with Roman numerals in HTML?",
+      "options": [
+        "<ol type='I'>",
+        "<ol type='roman'>",
+        "<ul type='I'>",
+        "<ol type='1'>"
+      ],
+      "answer": "<ol type='I'>",
+      "selectedOption": -1,
+      "questionNumber": 10
+    },
+    {
+      "question": "Which HTML attribute specifies the alternative text for an image?",
+      "options": [
+        "alt",
+        "title",
+        "src",
+        "longdesc"
+      ],
+      "answer": "alt",
+      "selectedOption": -1,
+      "questionNumber": 11
+    },
+    {
+      "question": "What does the `<meta name='viewport' content='width=device-width, initial-scale=1.0'>` tag do?",
+      "options": [
+        "It controls the viewport settings for responsive design.",
+        "It specifies the document's character encoding.",
+        "It links to external CSS files.",
+        "It sets the title of the webpage."
+      ],
+      "answer": "It controls the viewport settings for responsive design.",
+      "selectedOption": -1,
+      "questionNumber": 12
+    },
+    {
+      "question": "How do you create a form input field that only accepts email addresses?",
+      "options": [
+        "<input type='email'>",
+        "<input type='text' pattern='email'>",
+        "<input type='email-address'>",
+        "<input type='text' validate='email'>"
+      ],
+      "answer": "<input type='email'>",
+      "selectedOption": -1,
+      "questionNumber": 13
+    },
+    {
+      "question": "Which element is used to define a template that can be used later in the HTML document?",
+      "options": [
+        "<template>",
+        "<script>",
+        "<include>",
+        "<placeholder>"
+      ],
+      "answer": "<template>",
+      "selectedOption": -1,
+      "questionNumber": 14
+    },
+    {
+      "question": "What is the function of the `hreflang` attribute in an `<a>` tag?",
+      "options": [
+        "To specify the language of the linked document.",
+        "To set the relationship of the link.",
+        "To define the type of content in the link.",
+        "To open the link in a new window."
+      ],
+      "answer": "To specify the language of the linked document.",
+      "selectedOption": -1,
+      "questionNumber": 15
+    },
+    {
+      "question": "How do you include a CSS stylesheet in an HTML document?",
+      "options": [
+        "<link rel='stylesheet' href='styles.css'>",
+        "<style src='styles.css'>",
+        "<css href='styles.css'>",
+        "<link href='styles.css' type='text/css' rel='stylesheet'>"
+      ],
+      "answer": "<link rel='stylesheet' href='styles.css'>",
+      "selectedOption": -1,
+      "questionNumber": 16
+    }
+  ]
+}

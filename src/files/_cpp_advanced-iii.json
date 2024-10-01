@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `decltype` keyword in C++?",
+        "options": [
+          "It determines the type of an expression at compile time.",
+          "It defines a default constructor for a class.",
+          "It is used to declare an incomplete type.",
+          "It calculates the size of an object in bytes."
+        ],
+        "answer": "It determines the type of an expression at compile time.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How do `rvalue references` differ from `lvalue references` in C++?",
+        "options": [
+          "Rvalue references allow binding to temporary objects, while lvalue references bind to persistent objects.",
+          "Rvalue references allow binding to persistent objects, while lvalue references bind to temporary objects.",
+          "Rvalue references perform deep copies of objects, while lvalue references perform shallow copies.",
+          "Rvalue references allow assignment, while lvalue references do not."
+        ],
+        "answer": "Rvalue references allow binding to temporary objects, while lvalue references bind to persistent objects.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the difference between `std::move` and `std::forward` in C++?",
+        "options": [
+          "`std::move` casts an object to an rvalue, while `std::forward` preserves the value category of the argument.",
+          "`std::move` casts an object to an lvalue, while `std::forward` always casts to an rvalue.",
+          "`std::move` is used for perfect forwarding, while `std::forward` is used for moving objects.",
+          "`std::move` works at runtime, while `std::forward` works at compile time."
+        ],
+        "answer": "`std::move` casts an object to an rvalue, while `std::forward` preserves the value category of the argument.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is SFINAE (Substitution Failure Is Not An Error) in the context of C++ templates?",
+        "options": [
+          "It is a rule that allows compile-time function overloading based on template specialization.",
+          "It is a mechanism that prevents runtime errors by checking conditions at compile time.",
+          "It is a technique to suppress exception handling in template classes.",
+          "It allows dynamic binding of template functions during execution."
+        ],
+        "answer": "It is a rule that allows compile-time function overloading based on template specialization.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "How does the `std::allocator` class work in C++?",
+        "options": [
+          "It provides a standard way to allocate and deallocate memory for containers.",
+          "It guarantees that memory allocation is thread-safe.",
+          "It manages memory using a garbage collector.",
+          "It optimizes memory usage by pooling memory blocks."
+        ],
+        "answer": "It provides a standard way to allocate and deallocate memory for containers.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is a `placement new` in C++?",
+        "options": [
+          "It allows you to construct an object at a specific memory location.",
+          "It creates a new object without allocating memory.",
+          "It automatically initializes objects with default values.",
+          "It is used to optimize memory usage by avoiding dynamic allocation."
+        ],
+        "answer": "It allows you to construct an object at a specific memory location.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What does the `virtual` keyword achieve when used in a destructor?",
+        "options": [
+          "It ensures that the correct destructor for the derived class is called when deleting objects through base class pointers.",
+          "It allows overloading of destructors.",
+          "It prevents a class from being instantiated.",
+          "It enables the destructor to be called at runtime rather than compile time."
+        ],
+        "answer": "It ensures that the correct destructor for the derived class is called when deleting objects through base class pointers.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the purpose of the `std::thread::join` function?",
+        "options": [
+          "It blocks the calling thread until the specified thread finishes its execution.",
+          "It merges two threads into one.",
+          "It spawns a new thread from the calling thread.",
+          "It detaches a thread, allowing it to run independently."
+        ],
+        "answer": "It blocks the calling thread until the specified thread finishes its execution.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What does the `constexpr` specifier in C++ do?",
+        "options": [
+          "It ensures that a function or variable is evaluated at compile time.",
+          "It guarantees that a function or variable will only be evaluated at runtime.",
+          "It allows a variable to be modified after initialization.",
+          "It prevents functions from being used in templates."
+        ],
+        "answer": "It ensures that a function or variable is evaluated at compile time.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "How does `std::future` and `std::promise` work together in C++?",
+        "options": [
+          "`std::promise` sets a value to be retrieved by `std::future`, enabling asynchronous communication between threads.",
+          "`std::future` sets a value to be retrieved by `std::promise`, allowing synchronous communication.",
+          "`std::promise` is used to synchronize threads, while `std::future` handles exceptions.",
+          "`std::future` is used for real-time scheduling, while `std::promise` is for background processes."
+        ],
+        "answer": "`std::promise` sets a value to be retrieved by `std::future`, enabling asynchronous communication between threads.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of React's Context API?",
+        "options": [
+          "To pass data through the component tree without having to pass props down manually at every level.",
+          "To manage the state of a single component.",
+          "To improve the performance of class components.",
+          "To handle routing in a React application."
+        ],
+        "answer": "To pass data through the component tree without having to pass props down manually at every level.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How can you optimize performance in a React application?",
+        "options": [
+          "By using React.memo for functional components.",
+          "By using class components exclusively.",
+          "By avoiding the use of hooks.",
+          "By using inline styles."
+        ],
+        "answer": "By using React.memo for functional components.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What are higher-order components (HOCs) in React?",
+        "options": [
+          "Functions that take a component and return a new component.",
+          "Components that handle routing.",
+          "Components that manage state.",
+          "Functions that fetch data from APIs."
+        ],
+        "answer": "Functions that take a component and return a new component.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the purpose of React's `useReducer` hook?",
+        "options": [
+          "To manage complex state logic in functional components.",
+          "To fetch data from APIs.",
+          "To handle routing in a React application.",
+          "To manage local component state."
+        ],
+        "answer": "To manage complex state logic in functional components.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "How do you handle side effects in functional components?",
+        "options": [
+          "Using the `useEffect` hook.",
+          "Using the `componentDidMount` lifecycle method.",
+          "Using the `setState` method.",
+          "Using the `useState` hook."
+        ],
+        "answer": "Using the `useEffect` hook.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What are the benefits of using React Fragments?",
+        "options": [
+          "To group multiple elements without adding extra nodes to the DOM.",
+          "To improve performance of class components.",
+          "To manage state in functional components.",
+          "To handle form submissions."
+        ],
+        "answer": "To group multiple elements without adding extra nodes to the DOM.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "How can you achieve code splitting in a React application?",
+        "options": [
+          "By using dynamic `import()` and React.lazy.",
+          "By creating multiple entry points in the Webpack configuration.",
+          "By using CSS modules.",
+          "By creating separate components for each route."
+        ],
+        "answer": "By using dynamic `import()` and React.lazy.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the purpose of `React.forwardRef`?",
+        "options": [
+          "To forward refs to a child component.",
+          "To create higher-order components.",
+          "To manage state in functional components.",
+          "To handle component lifecycle methods."
+        ],
+        "answer": "To forward refs to a child component.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the difference between controlled and uncontrolled components in React?",
+        "options": [
+          "Controlled components are managed by React state, while uncontrolled components store their own state.",
+          "Controlled components use refs, while uncontrolled components do not.",
+          "Uncontrolled components require a state management library, while controlled components do not.",
+          "There is no difference."
+        ],
+        "answer": "Controlled components are managed by React state, while uncontrolled components store their own state.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "How do you optimize rendering of a large list of items in React?",
+        "options": [
+          "By using `React.memo`, `useMemo`, or libraries like React Virtualized.",
+          "By rendering all items in a single component.",
+          "By using class components exclusively.",
+          "By avoiding the use of keys."
+        ],
+        "answer": "By using `React.memo`, `useMemo`, or libraries like React Virtualized.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

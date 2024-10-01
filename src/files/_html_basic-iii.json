@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What tag is used to create a line break in HTML?",
+        "options": [
+          "<break>",
+          "<br>",
+          "<lb>",
+          "<newline>"
+        ],
+        "answer": "<br>",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "Which attribute is used to specify the URL of an image?",
+        "options": [
+          "src",
+          "href",
+          "link",
+          "url"
+        ],
+        "answer": "src",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "Which tag is used to define the main heading of a webpage?",
+        "options": [
+          "<h1>",
+          "<header>",
+          "<title>",
+          "<heading>"
+        ],
+        "answer": "<h1>",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the correct HTML element for inserting a line break?",
+        "options": [
+          "<break>",
+          "<br>",
+          "<newline>",
+          "<lb>"
+        ],
+        "answer": "<br>",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What tag is used to define a footer in HTML?",
+        "options": [
+          "<footer>",
+          "<bottom>",
+          "<section>",
+          "<div>"
+        ],
+        "answer": "<footer>",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "Which attribute can be used to specify inline CSS styles for an element?",
+        "options": [
+          "style",
+          "css",
+          "class",
+          "id"
+        ],
+        "answer": "style",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the purpose of the `<meta>` tag in HTML?",
+        "options": [
+          "To define the character set and page description.",
+          "To add a header to the document.",
+          "To create links to stylesheets.",
+          "To define the title of the document."
+        ],
+        "answer": "To define the character set and page description.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "Which tag is used to create a form in HTML?",
+        "options": [
+          "<form>",
+          "<input>",
+          "<fieldset>",
+          "<data>"
+        ],
+        "answer": "<form>",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the correct HTML for creating a dropdown list?",
+        "options": [
+          "<select><option></option></select>",
+          "<dropdown><option></option></dropdown>",
+          "<list><option></option></list>",
+          "<input type='dropdown'>"
+        ],
+        "answer": "<select><option></option></select>",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "How do you specify the character encoding for the document?",
+        "options": [
+          "<meta charset='UTF-8'>",
+          "<encoding='UTF-8'>",
+          "<meta content='UTF-8'>",
+          "<meta type='text/html'>"
+        ],
+        "answer": "<meta charset='UTF-8'>",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

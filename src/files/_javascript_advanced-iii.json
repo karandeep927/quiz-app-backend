@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the 'Symbol' type in JavaScript?",
+        "options": [
+          "To create unique identifiers for object properties.",
+          "To define immutable values.",
+          "To handle asynchronous operations.",
+          "To manage data structures."
+        ],
+        "answer": "To create unique identifiers for object properties.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What are IIFEs (Immediately Invoked Function Expressions) used for?",
+        "options": [
+          "To create a new scope and avoid polluting the global namespace.",
+          "To define global variables.",
+          "To create event listeners.",
+          "To execute functions with a delay."
+        ],
+        "answer": "To create a new scope and avoid polluting the global namespace.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the difference between 'shallow copy' and 'deep copy' in JavaScript?",
+        "options": [
+          "A shallow copy duplicates the first level of the object, while a deep copy duplicates all levels.",
+          "A shallow copy creates a reference to the original object, while a deep copy creates a new object.",
+          "A shallow copy is faster than a deep copy.",
+          "A shallow copy can be created using the spread operator, while a deep copy cannot."
+        ],
+        "answer": "A shallow copy duplicates the first level of the object, while a deep copy duplicates all levels.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What does the 'apply' method do in JavaScript?",
+        "options": [
+          "It calls a function with a given 'this' value and arguments provided as an array.",
+          "It binds a function to a specific context.",
+          "It executes a function immediately.",
+          "It creates a new function."
+        ],
+        "answer": "It calls a function with a given 'this' value and arguments provided as an array.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the difference between a Generator function and a regular function in JavaScript?",
+        "options": [
+          "Generator functions can pause execution and yield values.",
+          "Generator functions return promises, while regular functions do not.",
+          "Regular functions can return multiple values, while generators cannot.",
+          "There is no difference; they are the same."
+        ],
+        "answer": "Generator functions can pause execution and yield values.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What are Web Workers in JavaScript?",
+        "options": [
+          "Background scripts that run in parallel to the main thread.",
+          "Functions that manage asynchronous requests.",
+          "Libraries for handling DOM manipulation.",
+          "A method for creating modular JavaScript code."
+        ],
+        "answer": "Background scripts that run in parallel to the main thread.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the 'async iterator' in JavaScript?",
+        "options": [
+          "An object that allows you to iterate over data asynchronously.",
+          "A function that executes multiple promises in parallel.",
+          "A method for iterating through arrays.",
+          "An object that can handle events asynchronously."
+        ],
+        "answer": "An object that allows you to iterate over data asynchronously.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the purpose of the 'Map' object in JavaScript?",
+        "options": [
+          "To store key-value pairs where keys can be of any type.",
+          "To store arrays of unique values.",
+          "To create a prototype chain.",
+          "To manage DOM elements."
+        ],
+        "answer": "To store key-value pairs where keys can be of any type.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is a 'proxy' in JavaScript?",
+        "options": [
+          "An object that allows you to define custom behavior for fundamental operations.",
+          "A method for creating new objects.",
+          "A way to manage closures.",
+          "A tool for handling errors."
+        ],
+        "answer": "An object that allows you to define custom behavior for fundamental operations.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the purpose of the 'Reflect' API in JavaScript?",
+        "options": [
+          "To provide methods for interceptable JavaScript operations.",
+          "To create new objects.",
+          "To manage asynchronous functions.",
+          "To handle JSON data."
+        ],
+        "answer": "To provide methods for interceptable JavaScript operations.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

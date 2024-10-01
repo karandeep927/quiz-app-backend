@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the output of the following code: `print([x**2 for x in range(5) if x % 2 == 0])`?",
+        "options": [
+          "[0, 1, 4, 9, 16]",
+          "[0, 4, 16]",
+          "[1, 4, 9]",
+          "[0, 1, 2, 3, 4]"
+        ],
+        "answer": "[0, 4, 16]",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What is a generator in Python?",
+        "options": [
+          "A type of function that returns an iterator using the `yield` statement.",
+          "A built-in function that creates random numbers.",
+          "A method for optimizing code performance.",
+          "A library for handling file I/O operations."
+        ],
+        "answer": "A type of function that returns an iterator using the `yield` statement.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "Which of the following is a way to handle exceptions in Python?",
+        "options": [
+          "try...except blocks",
+          "if...else statements",
+          "switch cases",
+          "loop structures"
+        ],
+        "answer": "try...except blocks",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the purpose of the `self` parameter in instance methods?",
+        "options": [
+          "It refers to the instance of the class itself.",
+          "It is used to access class variables.",
+          "It is required for static methods.",
+          "It defines a method's return type."
+        ],
+        "answer": "It refers to the instance of the class itself.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "Which method can be used to add an element to a set in Python?",
+        "options": [
+          ".add()",
+          ".append()",
+          ".insert()",
+          ".push()"
+        ],
+        "answer": ".add()",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What will be the output of the following code: `print(type([]) is list)`?",
+        "options": [
+          "True",
+          "False",
+          "None",
+          "TypeError"
+        ],
+        "answer": "True",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "How can you create a virtual environment in Python?",
+        "options": [
+          "Using `python -m venv env_name`",
+          "Using `virtualenv env_name`",
+          "Both options are correct.",
+          "By setting the `PYTHONPATH` environment variable."
+        ],
+        "answer": "Both options are correct.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the difference between deep copy and shallow copy?",
+        "options": [
+          "Deep copy creates a new object with a new reference, while shallow copy creates a new object that refers to the original.",
+          "Deep copy is faster than shallow copy.",
+          "Shallow copy is used for immutable objects.",
+          "Deep copy works only with lists."
+        ],
+        "answer": "Deep copy creates a new object with a new reference, while shallow copy creates a new object that refers to the original.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the purpose of the `@staticmethod` decorator?",
+        "options": [
+          "To define a method that does not operate on an instance of the class.",
+          "To define a method that can access instance variables.",
+          "To define a class method.",
+          "To create an asynchronous method."
+        ],
+        "answer": "To define a method that does not operate on an instance of the class.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "Which of the following data types is mutable in Python?",
+        "options": [
+          "List",
+          "Tuple",
+          "String",
+          "Integer"
+        ],
+        "answer": "List",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `key` prop in React?",
+        "options": [
+          "To uniquely identify elements in a list and optimize re-renders.",
+          "To pass data to child components.",
+          "To control the visibility of components.",
+          "To set the default state of components."
+        ],
+        "answer": "To uniquely identify elements in a list and optimize re-renders.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How do you perform conditional rendering in React?",
+        "options": [
+          "By using JavaScript operators like `if` or conditional (`? :`) expressions.",
+          "By using CSS classes only.",
+          "By creating multiple component instances.",
+          "By returning null from the render method."
+        ],
+        "answer": "By using JavaScript operators like `if` or conditional (`? :`) expressions.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the difference between `useEffect` and `useLayoutEffect`?",
+        "options": [
+          "`useEffect` runs after the DOM has been painted, while `useLayoutEffect` runs synchronously before painting.",
+          "There is no difference; they are the same.",
+          "`useLayoutEffect` is used for state management, while `useEffect` is used for lifecycle methods.",
+          "`useEffect` cannot handle side effects, while `useLayoutEffect` can."
+        ],
+        "answer": "`useEffect` runs after the DOM has been painted, while `useLayoutEffect` runs synchronously before painting.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "How can you prevent a functional component from re-rendering?",
+        "options": [
+          "By using `React.memo` to wrap the component.",
+          "By using the `shouldComponentUpdate` method.",
+          "By avoiding the use of props.",
+          "By using hooks only."
+        ],
+        "answer": "By using `React.memo` to wrap the component.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is a higher-order component (HOC)?",
+        "options": [
+          "A function that takes a component and returns a new component with additional props or functionality.",
+          "A component that manages state and lifecycle methods.",
+          "A component that wraps another component for styling purposes.",
+          "A component that can handle API requests."
+        ],
+        "answer": "A function that takes a component and returns a new component with additional props or functionality.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is the purpose of `propTypes` in React?",
+        "options": [
+          "To enforce type checking for props passed to components.",
+          "To define default values for props.",
+          "To manage state within components.",
+          "To handle lifecycle events."
+        ],
+        "answer": "To enforce type checking for props passed to components.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "How can you implement error boundaries in React?",
+        "options": [
+          "By creating a class component that implements `componentDidCatch` and `getDerivedStateFromError`.",
+          "By using the `try-catch` statement in functional components.",
+          "By handling errors directly in the render method.",
+          "By using third-party libraries."
+        ],
+        "answer": "By creating a class component that implements `componentDidCatch` and `getDerivedStateFromError`.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What are React Fragments used for?",
+        "options": [
+          "To group multiple elements without adding extra nodes to the DOM.",
+          "To manage component state.",
+          "To optimize performance.",
+          "To create reusable components."
+        ],
+        "answer": "To group multiple elements without adding extra nodes to the DOM.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "How do you handle forms using uncontrolled components in React?",
+        "options": [
+          "By using refs to access form elements directly.",
+          "By using state to manage form inputs.",
+          "By using controlled components only.",
+          "By submitting the form without any state management."
+        ],
+        "answer": "By using refs to access form elements directly.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the `React.StrictMode` used for?",
+        "options": [
+          "To activate additional checks and warnings for components during development.",
+          "To improve the performance of components.",
+          "To manage state globally.",
+          "To handle routing in React applications."
+        ],
+        "answer": "To activate additional checks and warnings for components during development.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

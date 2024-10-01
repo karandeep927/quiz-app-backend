@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "What is the purpose of React's `useImperativeHandle` hook?",
+      "options": [
+        "To customize the instance value that is exposed to parent components when using `ref`",
+        "To control when a component re-renders",
+        "To manage state in deeply nested components",
+        "To trigger side effects in child components"
+      ],
+      "answer": "To customize the instance value that is exposed to parent components when using `ref`",
+      "selectedOption": -1,
+      "questionNumber": 1
+    },
+    {
+      "question": "What is React Concurrent Mode?",
+      "options": [
+        "A feature to make React applications more responsive by rendering components in the background",
+        "A feature that helps with error handling in React",
+        "A mode for server-side rendering",
+        "A debugging tool in React"
+      ],
+      "answer": "A feature to make React applications more responsive by rendering components in the background",
+      "selectedOption": -1,
+      "questionNumber": 2
+    },
+    {
+      "question": "How does `Suspense` work with data fetching in React?",
+      "options": [
+        "It allows you to suspend rendering until a resource (like data) is ready",
+        "It caches fetched data to avoid refetching",
+        "It triggers re-renders only when data changes",
+        "It handles errors during data fetching"
+      ],
+      "answer": "It allows you to suspend rendering until a resource (like data) is ready",
+      "selectedOption": -1,
+      "questionNumber": 3
+    },
+    {
+      "question": "What is React's Fiber architecture?",
+      "options": [
+        "A reimplementation of the React core algorithm to enable incremental rendering of the virtual DOM",
+        "A new feature for managing CSS in JS",
+        "A library for managing side effects in React",
+        "A plugin to improve rendering performance"
+      ],
+      "answer": "A reimplementation of the React core algorithm to enable incremental rendering of the virtual DOM",
+      "selectedOption": -1,
+      "questionNumber": 4
+    },
+    {
+      "question": "What is the purpose of React's `Error Boundaries`?",
+      "options": [
+        "To catch JavaScript errors in child components and display a fallback UI",
+        "To prevent components from re-rendering too often",
+        "To handle network errors in asynchronous operations",
+        "To handle event-driven errors in forms"
+      ],
+      "answer": "To catch JavaScript errors in child components and display a fallback UI",
+      "selectedOption": -1,
+      "questionNumber": 5
+    },
+    {
+      "question": "What does React's `useTransition` hook do?",
+      "options": [
+        "It allows you to mark some state updates as non-urgent to improve performance",
+        "It triggers animations on component updates",
+        "It is used for managing asynchronous data fetching",
+        "It delays the rendering of components to manage transitions"
+      ],
+      "answer": "It allows you to mark some state updates as non-urgent to improve performance",
+      "selectedOption": -1,
+      "questionNumber": 6
+    },
+    {
+      "question": "How does React's `useDeferredValue` hook work?",
+      "options": [
+        "It allows deferring the re-rendering of components for non-urgent updates",
+        "It prevents state updates until certain conditions are met",
+        "It ensures that component state is always in sync with the DOM",
+        "It defers rendering until data is fetched from an API"
+      ],
+      "answer": "It allows deferring the re-rendering of components for non-urgent updates",
+      "selectedOption": -1,
+      "questionNumber": 7
+    },
+    {
+      "question": "What is the difference between `React.lazy` and `Suspense`?",
+      "options": [
+        "`React.lazy` is for lazy-loading components, `Suspense` provides a fallback while lazy-loaded components are being loaded",
+        "`React.lazy` handles data fetching, `Suspense` manages side effects",
+        "`React.lazy` is for server-side rendering, `Suspense` is for client-side rendering",
+        "`React.lazy` delays rendering, `Suspense` caches components"
+      ],
+      "answer": "`React.lazy` is for lazy-loading components, `Suspense` provides a fallback while lazy-loaded components are being loaded",
+      "selectedOption": -1,
+      "questionNumber": 8
+    },
+    {
+      "question": "What does React's `Profiler` API do?",
+      "options": [
+        "It helps measure the performance of rendering in React applications",
+        "It provides debugging information about component errors",
+        "It logs state changes during component rendering",
+        "It handles asynchronous tasks more efficiently"
+      ],
+      "answer": "It helps measure the performance of rendering in React applications",
+      "selectedOption": -1,
+      "questionNumber": 9
+    },
+    {
+      "question": "How do `Custom Hooks` help in React?",
+      "options": [
+        "They allow you to encapsulate reusable logic for state and lifecycle in functions",
+        "They provide a way to access component state in class components",
+        "They help in defining default props for functional components",
+        "They are used to handle errors in functional components"
+      ],
+      "answer": "They allow you to encapsulate reusable logic for state and lifecycle in functions",
+      "selectedOption": -1,
+      "questionNumber": 10
+    },
+    {
+      "question": "How can you optimize rendering performance in React using the `React.memo` and `useMemo` hooks?",
+      "options": [
+        "`React.memo` prevents unnecessary re-renders of components, while `useMemo` memoizes expensive calculations",
+        "`React.memo` caches component state, while `useMemo` prevents rerenders",
+        "`React.memo` handles async data fetching, while `useMemo` optimizes JSX rendering",
+        "`React.memo` manages the event loop, while `useMemo` handles promises"
+      ],
+      "answer": "`React.memo` prevents unnecessary re-renders of components, while `useMemo` memoizes expensive calculations",
+      "selectedOption": -1,
+      "questionNumber": 11
+    },
+    {
+      "question": "What is `Recoil` in React?",
+      "options": [
+        "A state management library for React applications",
+        "A library for handling side effects in React",
+        "A tool for optimizing component rendering",
+        "A CSS-in-JS solution for styling React components"
+      ],
+      "answer": "A state management library for React applications",
+      "selectedOption": -1,
+      "questionNumber": 12
+    },
+    {
+      "question": "What does `React Server Components` introduce?",
+      "options": [
+        "The ability to render components on the server and stream them to the client",
+        "A way to create server-side state for React applications",
+        "It improves the way React handles the virtual DOM",
+        "It provides a mechanism for server-side routing in React"
+      ],
+      "answer": "The ability to render components on the server and stream them to the client",
+      "selectedOption": -1,
+      "questionNumber": 13
+    },
+    {
+      "question": "What is the purpose of `react-query`?",
+      "options": [
+        "To manage server-side state and data fetching in React applications",
+        "To cache component trees for better performance",
+        "To implement routing in React",
+        "To test React components in isolation"
+      ],
+      "answer": "To manage server-side state and data fetching in React applications",
+      "selectedOption": -1,
+      "questionNumber": 14
+    },
+    {
+      "question": "What is the difference between `hydrate()` and `render()` in React?",
+      "options": [
+        "`hydrate()` is used for rehydrating server-rendered applications, while `render()` is used for rendering client-side applications",
+        "`hydrate()` creates the virtual DOM, while `render()` updates it",
+        "`hydrate()` caches the state of components, while `render()` does not",
+        "`hydrate()` is for updating props, while `render()` is for rendering JSX"
+      ],
+      "answer": "`hydrate()` is used for rehydrating server-rendered applications, while `render()` is used for rendering client-side applications",
+      "selectedOption": -1,
+      "questionNumber": 15
+    }
+  ]
+}

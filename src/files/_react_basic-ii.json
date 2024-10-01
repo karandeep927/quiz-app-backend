@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is React?",
+        "options": [
+          "A JavaScript library for building user interfaces.",
+          "A CSS framework for styling applications.",
+          "A database management system.",
+          "A backend programming language."
+        ],
+        "answer": "A JavaScript library for building user interfaces.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What is a component in React?",
+        "options": [
+          "A reusable piece of code that defines a part of the UI.",
+          "A JavaScript function that handles user events.",
+          "A method for managing application state.",
+          "A library for styling components."
+        ],
+        "answer": "A reusable piece of code that defines a part of the UI.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "How do you create a class component in React?",
+        "options": [
+          "By extending the `React.Component` class.",
+          "By using the `function` keyword.",
+          "By importing the `React` library.",
+          "By defining a function that returns JSX."
+        ],
+        "answer": "By extending the `React.Component` class.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is JSX?",
+        "options": [
+          "A syntax extension that allows mixing HTML with JavaScript.",
+          "A type of CSS for styling components.",
+          "A method for managing state in React.",
+          "A JavaScript function for rendering components."
+        ],
+        "answer": "A syntax extension that allows mixing HTML with JavaScript.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the purpose of the `render` method in a class component?",
+        "options": [
+          "To define what the UI should look like.",
+          "To manage component state.",
+          "To handle user events.",
+          "To fetch data from an API."
+        ],
+        "answer": "To define what the UI should look like.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How do you pass data to a child component in React?",
+        "options": [
+          "By using props.",
+          "By using state.",
+          "By importing the child component.",
+          "By defining a context."
+        ],
+        "answer": "By using props.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What are props in React?",
+        "options": [
+          "Short for properties, they are used to pass data to components.",
+          "Methods used to manage component state.",
+          "Functions for handling events.",
+          "CSS styles for components."
+        ],
+        "answer": "Short for properties, they are used to pass data to components.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the purpose of state in React?",
+        "options": [
+          "To manage dynamic data in a component.",
+          "To define the structure of a component.",
+          "To handle user events.",
+          "To pass data between components."
+        ],
+        "answer": "To manage dynamic data in a component.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "How do you update the state in a class component?",
+        "options": [
+          "By using the `setState` method.",
+          "By directly modifying the state variable.",
+          "By calling the `render` method.",
+          "By using the `update` method."
+        ],
+        "answer": "By using the `setState` method.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the function of the `useState` hook?",
+        "options": [
+          "To add state to functional components.",
+          "To handle side effects in components.",
+          "To manage component lifecycle.",
+          "To fetch data from APIs."
+        ],
+        "answer": "To add state to functional components.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

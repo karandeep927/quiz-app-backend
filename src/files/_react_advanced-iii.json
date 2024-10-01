@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of `React.Suspense`?",
+        "options": [
+          "To handle asynchronous rendering in React applications.",
+          "To optimize performance of class components.",
+          "To create higher-order components.",
+          "To manage state in functional components."
+        ],
+        "answer": "To handle asynchronous rendering in React applications.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How do you implement error boundaries in React?",
+        "options": [
+          "By creating a class component that defines `componentDidCatch` and `getDerivedStateFromError` lifecycle methods.",
+          "By using the `useEffect` hook.",
+          "By wrapping components in a `<Suspense>` component.",
+          "By using functional components only."
+        ],
+        "answer": "By creating a class component that defines `componentDidCatch` and `getDerivedStateFromError` lifecycle methods.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the purpose of `useCallback` in React?",
+        "options": [
+          "To memoize callback functions and prevent unnecessary re-renders.",
+          "To manage state in functional components.",
+          "To handle side effects in functional components.",
+          "To optimize the performance of class components."
+        ],
+        "answer": "To memoize callback functions and prevent unnecessary re-renders.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the significance of `React.StrictMode`?",
+        "options": [
+          "To identify potential problems in an application during development.",
+          "To improve performance in production builds.",
+          "To manage state in functional components.",
+          "To optimize rendering of class components."
+        ],
+        "answer": "To identify potential problems in an application during development.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "How do you create a custom hook in React?",
+        "options": [
+          "By defining a function that uses other hooks.",
+          "By creating a class component.",
+          "By wrapping a component in a higher-order component.",
+          "By using the `useEffect` hook."
+        ],
+        "answer": "By defining a function that uses other hooks.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is the purpose of `useLayoutEffect`?",
+        "options": [
+          "To run side effects synchronously after all DOM mutations.",
+          "To fetch data from APIs.",
+          "To manage state in functional components.",
+          "To handle user events."
+        ],
+        "answer": "To run side effects synchronously after all DOM mutations.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What are React hooks?",
+        "options": [
+          "Functions that allow you to use state and other React features in functional components.",
+          "Methods to handle routing in React applications.",
+          "Functions that manage class components.",
+          "Syntax for creating higher-order components."
+        ],
+        "answer": "Functions that allow you to use state and other React features in functional components.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the purpose of `useImperativeHandle`?",
+        "options": [
+          "To customize the instance value that is exposed when using `ref`.",
+          "To manage state in functional components.",
+          "To handle asynchronous operations.",
+          "To manage event listeners."
+        ],
+        "answer": "To customize the instance value that is exposed when using `ref`.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the role of keys in React lists?",
+        "options": [
+          "To uniquely identify elements in a list and optimize rendering.",
+          "To define styles for list items.",
+          "To handle user events in lists.",
+          "To manage state in functional components."
+        ],
+        "answer": "To uniquely identify elements in a list and optimize rendering.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is React's reconciliation process?",
+        "options": [
+          "The algorithm React uses to identify changes in the virtual DOM and update the real DOM efficiently.",
+          "The process of rendering components to the server.",
+          "The method for optimizing performance in class components.",
+          "The process of handling events in React."
+        ],
+        "answer": "The algorithm React uses to identify changes in the virtual DOM and update the real DOM efficiently.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

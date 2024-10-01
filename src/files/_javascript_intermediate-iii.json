@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `Object.freeze()` method?",
+        "options": [
+          "To prevent new properties from being added to an object.",
+          "To make an object immutable.",
+          "To delete existing properties of an object.",
+          "To create a shallow copy of an object."
+        ],
+        "answer": "To make an object immutable.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What does the `Array.prototype.map()` method do?",
+        "options": [
+          "Creates a new array with the results of calling a provided function on every element in the calling array.",
+          "Filters the elements of an array based on a condition.",
+          "Executes a provided function once for each array element.",
+          "Reverses the order of the elements in an array."
+        ],
+        "answer": "Creates a new array with the results of calling a provided function on every element in the calling array.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "How can you check if a variable is an array?",
+        "options": [
+          "Using `Array.isArray()` method.",
+          "Using `typeof` operator.",
+          "Using `instanceof` operator.",
+          "Both A and C."
+        ],
+        "answer": "Both A and C.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the difference between `let` and `var`?",
+        "options": [
+          "`let` has block scope, while `var` has function scope.",
+          "`let` is hoisted, while `var` is not.",
+          "`let` can be redeclared, while `var` cannot.",
+          "`let` is only available in ES6, while `var` is available in all versions."
+        ],
+        "answer": "`let` has block scope, while `var` has function scope.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the purpose of the `setTimeout()` function?",
+        "options": [
+          "To execute a function after a specified number of milliseconds.",
+          "To create a recurring timer.",
+          "To delay the execution of a script.",
+          "To pause code execution."
+        ],
+        "answer": "To execute a function after a specified number of milliseconds.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What are template literals in JavaScript?",
+        "options": [
+          "String literals allowing embedded expressions, enclosed by backticks (`).",
+          "Regular string literals enclosed by single or double quotes.",
+          "Strings that contain HTML markup.",
+          "Strings that are used for creating comments."
+        ],
+        "answer": "String literals allowing embedded expressions, enclosed by backticks (`).",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "How can you merge two objects in JavaScript?",
+        "options": [
+          "Using the `Object.assign()` method.",
+          "Using the spread operator.",
+          "Both A and B.",
+          "By iterating through the objects."
+        ],
+        "answer": "Both A and B.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the difference between `==` and `===`?",
+        "options": [
+          "`==` checks for value equality, while `===` checks for value and type equality.",
+          "`==` checks for type equality, while `===` checks for value equality.",
+          "There is no difference; both are the same.",
+          "`==` is used for objects, while `===` is used for primitive types."
+        ],
+        "answer": "`==` checks for value equality, while `===` checks for value and type equality.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What does the `Array.prototype.reduce()` method do?",
+        "options": [
+          "Executes a reducer function on each element of the array, resulting in a single output value.",
+          "Creates a new array with all elements that pass the test implemented by the provided function.",
+          "Tests whether at least one element in the array passes the test implemented by the provided function.",
+          "Reverses the order of the elements in an array."
+        ],
+        "answer": "Executes a reducer function on each element of the array, resulting in a single output value.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is a JavaScript module?",
+        "options": [
+          "A piece of code that can be exported and imported in other files.",
+          "A set of functions grouped together for better organization.",
+          "A way to encapsulate variables and functions.",
+          "All of the above."
+        ],
+        "answer": "All of the above.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

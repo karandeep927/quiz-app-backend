@@ -1,5 +1,5 @@
 const bcrypt = require('bcrypt')
-const validateUser = require('../utils/validation')
+const {validateUser,validateLogInDetails} = require('../utils/validation')
 const User = require('../Models/userModel')
 const ErrorHandler = require('../utils/errorhandler')
 const ApiError = require('../utils/Error')
@@ -28,13 +28,31 @@ const registerUser = ErrorHandler(async (req,res)=>{
         password:encryptedPassword,
     })
     user.password = 'hidden';
-
     return res.status(201).json(
         new ApiResponse(201, user, "User registered Successfully")
     )
 
 })
 
+const loginUser =  ErrorHandler(async (req,res)=>{
+    const {email,password} = req.body;
+    const {error} = validateLogInDetails({email,password});
+    
+    if(error){
+        throw new ApiError(400,"All fields are required");
+    }
 
+    let user = await User.findOne({ email });
+    
+    if (!user){
+        throw new ApiError(404,'Email not found')
+    }
+    const matchPassword = await bcrypt.compare(password,user.password)
+    if(!matchPassword) throw new ApiError(400,'Wrong Password!' )
+    
+    return res.status(200).json(
+        new ApiResponse(200,user,"Log in successfully")
+    )
+})
 
-module.exports = {registerUser}
+module.exports = {registerUser,loginUser}

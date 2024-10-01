@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What does the `<progress>` element represent in HTML5?",
+        "options": [
+          "A progress bar for representing the completion of a task.",
+          "An animation for loading elements.",
+          "A way to show download speed.",
+          "A component for user input."
+        ],
+        "answer": "A progress bar for representing the completion of a task.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "Which attribute is used to specify a default option in a dropdown list?",
+        "options": [
+          "selected",
+          "default",
+          "checked",
+          "active"
+        ],
+        "answer": "selected",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What does the `accept` attribute do in a file input element?",
+        "options": [
+          "Specifies the types of files that can be uploaded.",
+          "Defines the maximum file size.",
+          "Sets the file formats allowed for download.",
+          "Indicates if the input is required."
+        ],
+        "answer": "Specifies the types of files that can be uploaded.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "How can you add an icon to a button in HTML?",
+        "options": [
+          "By using the `<icon>` element.",
+          "By including an image inside the `<button>` element.",
+          "By setting the `src` attribute in a button tag.",
+          "By using a CSS background image."
+        ],
+        "answer": "By including an image inside the `<button>` element.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "Which HTML element is used to define a footer for a document or section?",
+        "options": [
+          "<footer>",
+          "<bottom>",
+          "<section>",
+          "<base>"
+        ],
+        "answer": "<footer>",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is the purpose of the `content` attribute in the `<meta>` tag?",
+        "options": [
+          "To specify the character set for the document.",
+          "To provide metadata about the HTML document.",
+          "To define the document's title.",
+          "To link external stylesheets."
+        ],
+        "answer": "To provide metadata about the HTML document.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the role of the `<aside>` element in HTML5?",
+        "options": [
+          "To represent content related to the main content but not essential.",
+          "To define the main content of the page.",
+          "To create a navigation bar.",
+          "To represent a sidebar."
+        ],
+        "answer": "To represent content related to the main content but not essential.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "Which HTML element is used to create a clickable hyperlink?",
+        "options": [
+          "<link>",
+          "<a>",
+          "<href>",
+          "<url>"
+        ],
+        "answer": "<a>",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "How do you create a checkbox input in HTML?",
+        "options": [
+          "<input type='checkbox'>",
+          "<checkbox>",
+          "<input type='check'>",
+          "<input type='radio'>"
+        ],
+        "answer": "<input type='checkbox'>",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the use of the `<blockquote>` element?",
+        "options": [
+          "To define a section that is quoted from another source.",
+          "To create a list of items.",
+          "To insert a reference link.",
+          "To define the main title of a page."
+        ],
+        "answer": "To define a section that is quoted from another source.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `grid-template-areas` property in CSS Grid?",
+        "options": [
+          "It allows you to define named grid areas for easier layout management.",
+          "It sets the number of rows and columns in a grid.",
+          "It specifies the size of each grid item.",
+          "It defines the spacing between grid items."
+        ],
+        "answer": "It allows you to define named grid areas for easier layout management.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How do you create a CSS sprite?",
+        "options": [
+          "By using a single image that contains multiple images and adjusting the background position.",
+          "By overlaying multiple images on top of each other.",
+          "By using the `clip-path` property to cut out images.",
+          "By applying multiple background images to an element."
+        ],
+        "answer": "By using a single image that contains multiple images and adjusting the background position.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the purpose of the `:root` pseudo-class in CSS?",
+        "options": [
+          "It represents the highest-level parent of the document and is often used for defining custom properties.",
+          "It selects the first element in the document.",
+          "It targets the body of the document.",
+          "It defines a global style for all elements."
+        ],
+        "answer": "It represents the highest-level parent of the document and is often used for defining custom properties.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "How do you implement a CSS sticky header?",
+        "options": [
+          "By setting the `position` property to `sticky` and defining a top offset.",
+          "By using `position: fixed` and setting the top property.",
+          "By applying `position: relative` and adjusting the margin.",
+          "By using flexbox to arrange the header."
+        ],
+        "answer": "By setting the `position` property to `sticky` and defining a top offset.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What does the `flex-grow` property do in Flexbox?",
+        "options": [
+          "It defines the ability for a flex item to grow relative to the rest of the flex items.",
+          "It sets the minimum width of a flex item.",
+          "It controls the alignment of flex items.",
+          "It determines the order of flex items."
+        ],
+        "answer": "It defines the ability for a flex item to grow relative to the rest of the flex items.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How can you create a fade-in animation using CSS?",
+        "options": [
+          "By using `@keyframes` and the `opacity` property with transitions.",
+          "By setting the `animation` property to a fade-in effect.",
+          "By applying a `transition` on the `visibility` property.",
+          "By using JavaScript to manipulate styles."
+        ],
+        "answer": "By using `@keyframes` and the `opacity` property with transitions.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the purpose of the `@keyframes` rule in CSS?",
+        "options": [
+          "It defines the intermediate steps in a CSS animation.",
+          "It controls the order of styles applied in a stylesheet.",
+          "It specifies media query conditions.",
+          "It creates reusable style sets."
+        ],
+        "answer": "It defines the intermediate steps in a CSS animation.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "How can you center an element horizontally and vertically using Flexbox?",
+        "options": [
+          "By using `display: flex`, `justify-content: center`, and `align-items: center` on the parent container.",
+          "By setting `margin: auto` on the element.",
+          "By using `position: absolute` and `transform: translate(-50%, -50%)`.",
+          "By applying `text-align: center` and `line-height` equal to the container's height."
+        ],
+        "answer": "By using `display: flex`, `justify-content: center`, and `align-items: center` on the parent container.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the `overflow` property used for in CSS?",
+        "options": [
+          "It controls what happens when an element's content is too large for its box.",
+          "It specifies how to align elements within a container.",
+          "It sets the visibility of an element.",
+          "It defines how to position elements on the page."
+        ],
+        "answer": "It controls what happens when an element's content is too large for its box.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What does the `transition` property do in CSS?",
+        "options": [
+          "It allows changes to CSS properties to occur over a specified duration.",
+          "It applies animations to elements.",
+          "It defines the style of an element at different states.",
+          "It controls the visibility of an element during transitions."
+        ],
+        "answer": "It allows changes to CSS properties to occur over a specified duration.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

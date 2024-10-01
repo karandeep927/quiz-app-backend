@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "Which C++ cast should be used to convert one pointer type to another while ensuring type safety?",
+        "options": [
+          "static_cast",
+          "reinterpret_cast",
+          "dynamic_cast",
+          "const_cast"
+        ],
+        "answer": "static_cast",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What is the output of the following code?\n```cpp\nint a = 10, b = 20;\nswap(a, b);\ncout << a << ' ' << b;\n```\n(Note: `swap()` is a function from the standard library)",
+        "options": [
+          "20 10",
+          "10 20",
+          "0 0",
+          "Error"
+        ],
+        "answer": "20 10",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "Which of the following statements about `std::vector` is true?",
+        "options": [
+          "`std::vector` provides dynamic array capabilities, with automatic resizing.",
+          "`std::vector` is a fixed-size array.",
+          "`std::vector` elements cannot be accessed using indices.",
+          "`std::vector` can only store elements of primitive types."
+        ],
+        "answer": "`std::vector` provides dynamic array capabilities, with automatic resizing.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the purpose of `explicit` keyword in C++?",
+        "options": [
+          "To prevent implicit conversions or constructor calls.",
+          "To define a virtual function.",
+          "To make a function const.",
+          "To initialize a variable explicitly."
+        ],
+        "answer": "To prevent implicit conversions or constructor calls.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "Which of the following is true regarding multiple inheritance in C++?",
+        "options": [
+          "A derived class can inherit from more than one base class.",
+          "A class can only inherit from one base class.",
+          "A derived class must implement all functions of base classes.",
+          "Multiple inheritance is not allowed in C++."
+        ],
+        "answer": "A derived class can inherit from more than one base class.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is the primary use of the `typeid` operator in C++?",
+        "options": [
+          "To get the type information of an object at runtime.",
+          "To cast an object from one type to another.",
+          "To define a new type.",
+          "To check whether a type is a reference type."
+        ],
+        "answer": "To get the type information of an object at runtime.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "Which of the following functions can be used to compare two strings in C++?",
+        "options": [
+          "`strcmp`",
+          "`concat`",
+          "`strcat`",
+          "`strcopy`"
+        ],
+        "answer": "`strcmp`",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is a segmentation fault in C++?",
+        "options": [
+          "An error caused by accessing memory that the program does not have permission to access.",
+          "An error related to improper data types.",
+          "An error when compiling the program.",
+          "An error when linking external libraries."
+        ],
+        "answer": "An error caused by accessing memory that the program does not have permission to access.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "Which of the following operators can be overloaded in C++?",
+        "options": [
+          "++",
+          "::",
+          "sizeof",
+          "."
+        ],
+        "answer": "++",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "Which of the following is a valid way to declare a pointer to a constant integer?",
+        "options": [
+          "const int* ptr;",
+          "int* const ptr;",
+          "int* ptr = &constant;",
+          "ptr const int*;"
+        ],
+        "answer": "const int* ptr;",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

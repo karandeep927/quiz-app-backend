@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `std::forward` function in C++?",
+        "options": [
+          "It is used to perfectly forward arguments to another function.",
+          "It is used to copy a range of elements.",
+          "It returns a reverse iterator for a container.",
+          "It moves the ownership of a pointer."
+        ],
+        "answer": "It is used to perfectly forward arguments to another function.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "Which C++ feature allows specifying that a function should not throw any exceptions?",
+        "options": [
+          "`noexcept`",
+          "`throw()`,",
+          "`try-catch`",
+          "`throw_spec`"
+        ],
+        "answer": "`noexcept`",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the difference between a `std::unique_ptr` and `std::shared_ptr`?",
+        "options": [
+          "`std::unique_ptr` has sole ownership of the object, while `std::shared_ptr` allows multiple owners.",
+          "`std::unique_ptr` allows shared ownership, while `std::shared_ptr` provides exclusive ownership.",
+          "`std::unique_ptr` does not automatically manage memory, but `std::shared_ptr` does.",
+          "`std::unique_ptr` uses reference counting, while `std::shared_ptr` does not."
+        ],
+        "answer": "`std::unique_ptr` has sole ownership of the object, while `std::shared_ptr` allows multiple owners.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "How does `std::async` improve the performance of a program?",
+        "options": [
+          "It allows asynchronous execution of functions without blocking the calling thread.",
+          "It allocates memory dynamically at runtime.",
+          "It defers function calls until necessary.",
+          "It enables garbage collection for unused objects."
+        ],
+        "answer": "It allows asynchronous execution of functions without blocking the calling thread.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the difference between a `mutex` and a `spinlock` in C++ concurrency?",
+        "options": [
+          "A `mutex` puts the thread to sleep if the lock is not available, while a `spinlock` continuously checks the lock.",
+          "A `mutex` uses atomic operations, while a `spinlock` does not.",
+          "A `spinlock` is a part of C++11, while `mutex` is not.",
+          "A `spinlock` allows multiple threads to access the critical section simultaneously, while `mutex` does not."
+        ],
+        "answer": "A `mutex` puts the thread to sleep if the lock is not available, while a `spinlock` continuously checks the lock.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How does C++ handle type erasure in the `std::function` template?",
+        "options": [
+          "By allowing functions with different signatures to be stored in the same object using polymorphism.",
+          "By ignoring the return type of functions.",
+          "By removing template types during compilation.",
+          "By providing runtime type information for all function objects."
+        ],
+        "answer": "By allowing functions with different signatures to be stored in the same object using polymorphism.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the significance of the `volatile` keyword in C++?",
+        "options": [
+          "It tells the compiler that a variable may change at any time, preventing certain optimizations.",
+          "It allows a variable to be shared across multiple threads without locks.",
+          "It makes a variable constant during the program execution.",
+          "It ensures that a variable is only accessed by one thread at a time."
+        ],
+        "answer": "It tells the compiler that a variable may change at any time, preventing certain optimizations.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the primary benefit of using `std::optional` in C++17?",
+        "options": [
+          "It represents the absence of a value without using pointers.",
+          "It simplifies exception handling.",
+          "It provides thread-safe operations on objects.",
+          "It enables object pooling."
+        ],
+        "answer": "It represents the absence of a value without using pointers.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "How can you prevent the slicing problem in C++ when dealing with polymorphism?",
+        "options": [
+          "By using pointers or references to base class objects instead of directly copying them.",
+          "By using `std::unique_ptr` to manage the memory of the objects.",
+          "By declaring all functions as `virtual`.",
+          "By overriding the `operator=` for base classes."
+        ],
+        "answer": "By using pointers or references to base class objects instead of directly copying them.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the purpose of the `enable_if` mechanism in C++ templates?",
+        "options": [
+          "It enables template specialization based on a compile-time condition.",
+          "It defines the lifetime of a template argument.",
+          "It ensures that only one template instance can be created.",
+          "It triggers exception handling in template functions."
+        ],
+        "answer": "It enables template specialization based on a compile-time condition.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

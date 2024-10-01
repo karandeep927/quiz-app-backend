@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "Which data type is used to create a variable that should store text?",
+        "options": [
+          "string",
+          "int",
+          "char",
+          "float"
+        ],
+        "answer": "string",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What is the output of `5 % 2` in C++?",
+        "options": [
+          "1",
+          "2",
+          "0",
+          "5"
+        ],
+        "answer": "1",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "Which of the following is the correct way to initialize a constant variable in C++?",
+        "options": [
+          "const int x = 10;",
+          "constant int x = 10;",
+          "var const x = 10;",
+          "int x = const 10;"
+        ],
+        "answer": "const int x = 10;",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "Which function is used to find the length of a string in C++?",
+        "options": [
+          "length()",
+          "size()",
+          "strlen()",
+          "len()"
+        ],
+        "answer": "length()",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the purpose of the `return` statement in a C++ function?",
+        "options": [
+          "To exit the function and return a value to the calling code.",
+          "To continue the loop.",
+          "To declare a variable.",
+          "To break the execution of the program."
+        ],
+        "answer": "To exit the function and return a value to the calling code.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is the default value of an uninitialized local variable in C++?",
+        "options": [
+          "Undefined behavior",
+          "0",
+          "NULL",
+          "The last assigned value"
+        ],
+        "answer": "Undefined behavior",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "Which of the following is the correct syntax for a for loop in C++?",
+        "options": [
+          "for (int i = 0; i < 10; i++)",
+          "loop for (int i = 0; i < 10; i++)",
+          "for i in range(0, 10)",
+          "foreach (i in range(0, 10))"
+        ],
+        "answer": "for (int i = 0; i < 10; i++)",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "Which of the following is not a valid access specifier in C++?",
+        "options": [
+          "protected",
+          "private",
+          "secret",
+          "public"
+        ],
+        "answer": "secret",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "Which keyword is used to declare an object in C++?",
+        "options": [
+          "new",
+          "class",
+          "struct",
+          "object"
+        ],
+        "answer": "new",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is a pointer in C++?",
+        "options": [
+          "A variable that stores the memory address of another variable.",
+          "A variable that stores an integer value.",
+          "A function that returns a variable.",
+          "A data type used to create floating-point numbers."
+        ],
+        "answer": "A variable that stores the memory address of another variable.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

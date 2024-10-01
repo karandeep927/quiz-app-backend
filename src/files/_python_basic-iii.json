@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What will be the output of the following code: `print({x: x**2 for x in (2, 3, 4)})`?",
+        "options": [
+          "{2: 4, 3: 9, 4: 16}",
+          "{2: 2, 3: 3, 4: 4}",
+          "{2: 4, 3: 6, 4: 8}",
+          "SyntaxError"
+        ],
+        "answer": "{2: 4, 3: 9, 4: 16}",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "Which of the following is true about Python lists?",
+        "options": [
+          "They can store elements of different data types.",
+          "They are immutable.",
+          "They can only store numeric data.",
+          "They use a fixed size."
+        ],
+        "answer": "They can store elements of different data types.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the purpose of the `with` statement in Python?",
+        "options": [
+          "To simplify exception handling.",
+          "To ensure proper resource management.",
+          "To create a context for asynchronous programming.",
+          "To define a block of code."
+        ],
+        "answer": "To ensure proper resource management.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "How do you define a class in Python?",
+        "options": [
+          "Using the `class` keyword followed by the class name.",
+          "Using the `def` keyword.",
+          "Using the `create class` statement.",
+          "By assigning a function to a variable."
+        ],
+        "answer": "Using the `class` keyword followed by the class name.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What will be the output of `print(bool(''))`?",
+        "options": [
+          "True",
+          "False",
+          "None",
+          "Error"
+        ],
+        "answer": "False",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What does the `join()` method do in Python?",
+        "options": [
+          "Concatenates the elements of an iterable into a single string.",
+          "Splits a string into a list of substrings.",
+          "Joins two lists together.",
+          "Combines multiple dictionaries into one."
+        ],
+        "answer": "Concatenates the elements of an iterable into a single string.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is a lambda function in Python?",
+        "options": [
+          "An anonymous function defined with the `lambda` keyword.",
+          "A type of variable that can hold multiple values.",
+          "A function that returns a generator.",
+          "A method for optimizing code performance."
+        ],
+        "answer": "An anonymous function defined with the `lambda` keyword.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "Which of the following statements about tuples is true?",
+        "options": [
+          "Tuples are mutable and can be changed.",
+          "Tuples can hold elements of different data types.",
+          "Tuples are defined using curly braces.",
+          "Tuples cannot contain duplicate values."
+        ],
+        "answer": "Tuples can hold elements of different data types.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What does the `__init__` method do in a class?",
+        "options": [
+          "It initializes the instance of a class.",
+          "It defines the main method of the class.",
+          "It is called when the class is created.",
+          "It allows for method overloading."
+        ],
+        "answer": "It initializes the instance of a class.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What will the following code output: `print(isinstance([], list))`?",
+        "options": [
+          "True",
+          "False",
+          "None",
+          "Error"
+        ],
+        "answer": "True",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

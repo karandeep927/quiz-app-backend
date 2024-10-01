@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `<template>` element in HTML?",
+        "options": [
+          "To define a reusable block of HTML that is not rendered until it is used by JavaScript.",
+          "To specify metadata for the document.",
+          "To create a table template.",
+          "To define a section of content for printing."
+        ],
+        "answer": "To define a reusable block of HTML that is not rendered until it is used by JavaScript.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How do you create a custom element in HTML?",
+        "options": [
+          "By using the `customElements.define` method in JavaScript.",
+          "By defining a new HTML tag.",
+          "By adding a `data-*` attribute.",
+          "By using the `<custom-element>` tag."
+        ],
+        "answer": "By using the `customElements.define` method in JavaScript.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the purpose of the `data-*` attribute in HTML?",
+        "options": [
+          "To store custom data private to the page or application.",
+          "To link to external stylesheets.",
+          "To define custom styles for an element.",
+          "To set element attributes dynamically."
+        ],
+        "answer": "To store custom data private to the page or application.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What does the `rel='noopener'` attribute do when used with `target='_blank'`?",
+        "options": [
+          "It prevents the new page from being able to access the originating page's `window` object.",
+          "It opens the link in a new tab without referrer information.",
+          "It disables JavaScript in the new window.",
+          "It ensures that the link is opened in a private browsing session."
+        ],
+        "answer": "It prevents the new page from being able to access the originating page's `window` object.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the purpose of the `<slot>` element in Web Components?",
+        "options": [
+          "To create a placeholder in a Web Component's shadow DOM for user-provided content.",
+          "To define external JavaScript sources.",
+          "To specify styles for shadow DOM.",
+          "To create a reusable component."
+        ],
+        "answer": "To create a placeholder in a Web Component's shadow DOM for user-provided content.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is the `shadow DOM`?",
+        "options": [
+          "A separate DOM tree that is attached to an element but is hidden from the main document.",
+          "A method to control styles of an element.",
+          "A type of CSS selector.",
+          "A framework for building web applications."
+        ],
+        "answer": "A separate DOM tree that is attached to an element but is hidden from the main document.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "How can you define the language of the content in HTML5?",
+        "options": [
+          "By using the `lang` attribute on the `<html>` tag.",
+          "By using the `<meta>` tag.",
+          "By using the `language` attribute on the `<body>` tag.",
+          "By setting the `lang` property in CSS."
+        ],
+        "answer": "By using the `lang` attribute on the `<html>` tag.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the purpose of the `<picture>` element in HTML5?",
+        "options": [
+          "To provide multiple sources for responsive images based on different device characteristics.",
+          "To create a slideshow of images.",
+          "To define a canvas for graphics.",
+          "To display images with captions."
+        ],
+        "answer": "To provide multiple sources for responsive images based on different device characteristics.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What does the `inputmode` attribute do?",
+        "options": [
+          "It specifies the type of virtual keyboard to display on mobile devices.",
+          "It defines the input format for a form element.",
+          "It sets the maximum length of input in a text field.",
+          "It provides a hint to the user about what type of data to enter."
+        ],
+        "answer": "It specifies the type of virtual keyboard to display on mobile devices.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the purpose of the `FormData` object in HTML5?",
+        "options": [
+          "To construct a set of key/value pairs representing form fields and their values.",
+          "To submit form data via AJAX requests.",
+          "To validate form inputs before submission.",
+          "To format the form data for display."
+        ],
+        "answer": "To construct a set of key/value pairs representing form fields and their values.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

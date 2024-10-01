@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "Which of the following is the correct file extension for a C++ file?",
+        "options": [
+          ".cpp",
+          ".c",
+          ".hpp",
+          ".cp"
+        ],
+        "answer": ".cpp",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "Which of the following is used to terminate a C++ statement?",
+        "options": [
+          "Semicolon (;)",
+          "Period (.)",
+          "Colon (:)",
+          "Comma (,)"
+        ],
+        "answer": "Semicolon (;)",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "Which of the following loops checks the condition at the end of the loop?",
+        "options": [
+          "do-while loop",
+          "while loop",
+          "for loop",
+          "None of the above"
+        ],
+        "answer": "do-while loop",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "Which operator is used for reference in C++?",
+        "options": [
+          "&",
+          "*",
+          "^",
+          "%"
+        ],
+        "answer": "&",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "Which function is used to read a single character from the user in C++?",
+        "options": [
+          "cin.get()",
+          "cin.read()",
+          "cin()",
+          "getchar()"
+        ],
+        "answer": "cin.get()",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "Which of the following is the correct way to create a comment block in C++?",
+        "options": [
+          "/* Comment block */",
+          "// Comment block",
+          "<!-- Comment block -->",
+          "' Comment block"
+        ],
+        "answer": "/* Comment block */",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "Which of the following is the correct way to declare an array of 10 integers in C++?",
+        "options": [
+          "int arr[10];",
+          "int arr[] = 10;",
+          "array int arr[10];",
+          "int[10] arr;"
+        ],
+        "answer": "int arr[10];",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the correct syntax for defining a function in C++?",
+        "options": [
+          "returnType functionName() {}",
+          "def functionName() {}",
+          "function functionName() {}",
+          "functionName returnType() {}"
+        ],
+        "answer": "returnType functionName() {}",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "Which operator is used to access the members of a structure through a pointer?",
+        "options": [
+          "->",
+          ".",
+          "&",
+          "*"
+        ],
+        "answer": "->",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "Which of the following is the correct way to include a library in C++?",
+        "options": [
+          "#include <iostream>",
+          "import <iostream>",
+          "using <iostream>",
+          "#include 'iostream'"
+        ],
+        "answer": "#include <iostream>",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

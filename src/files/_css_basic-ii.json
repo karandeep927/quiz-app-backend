@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What does CSS stand for?",
+        "options": [
+          "Computer Style Sheets",
+          "Cascading Style Sheets",
+          "Creative Style Sheets",
+          "Colorful Style Sheets"
+        ],
+        "answer": "Cascading Style Sheets",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How do you add a background color in CSS?",
+        "options": [
+          "background-color: red;",
+          "color: red;",
+          "bgcolor: red;",
+          "background: red;"
+        ],
+        "answer": "background-color: red;",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "Which property is used to change the font of an element?",
+        "options": [
+          "font-style",
+          "font-weight",
+          "font-family",
+          "text-style"
+        ],
+        "answer": "font-family",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "How can you make text bold in CSS?",
+        "options": [
+          "font-weight: bold;",
+          "font-style: bold;",
+          "text-weight: bold;",
+          "font: bold;"
+        ],
+        "answer": "font-weight: bold;",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "Which CSS property controls the text size?",
+        "options": [
+          "text-size",
+          "font-size",
+          "text-style",
+          "font-style"
+        ],
+        "answer": "font-size",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How do you create a class selector in CSS?",
+        "options": [
+          "#classname",
+          ".classname",
+          "*classname",
+          "@classname"
+        ],
+        "answer": ".classname",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the correct CSS syntax to select an element with an ID of 'header'?",
+        "options": [
+          ".header { }",
+          "#header { }",
+          "*header { }",
+          "header { }"
+        ],
+        "answer": "#header { }",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "Which property is used to change the spacing between lines of text?",
+        "options": [
+          "line-height",
+          "text-spacing",
+          "letter-spacing",
+          "spacing"
+        ],
+        "answer": "line-height",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "How do you apply a style to all paragraphs in a document?",
+        "options": [
+          "p { }",
+          ".p { }",
+          "#p { }",
+          "p.element { }"
+        ],
+        "answer": "p { }",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What does the `display` property do?",
+        "options": [
+          "It specifies how an element is displayed on the page.",
+          "It sets the visibility of an element.",
+          "It determines the background color of an element.",
+          "It controls the text alignment."
+        ],
+        "answer": "It specifies how an element is displayed on the page.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

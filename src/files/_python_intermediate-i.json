@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What are list comprehensions in Python?",
+        "options": [
+          "A concise way to create lists using a single line of code.",
+          "A method for iterating through lists.",
+          "A way to format strings.",
+          "A technique for handling exceptions."
+        ],
+        "answer": "A concise way to create lists using a single line of code.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What is the difference between a function and a method in Python?",
+        "options": [
+          "A function is independent, while a method is associated with an object.",
+          "There is no difference; they are interchangeable.",
+          "Methods cannot return values.",
+          "Functions can only be defined at the top level of a script."
+        ],
+        "answer": "A function is independent, while a method is associated with an object.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "How can you manage package dependencies in Python?",
+        "options": [
+          "By using a virtual environment and a `requirements.txt` file.",
+          "By manually installing each package.",
+          "By creating a separate module for each package.",
+          "By using global installations only."
+        ],
+        "answer": "By using a virtual environment and a `requirements.txt` file.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the purpose of the `*args` and `**kwargs` in function definitions?",
+        "options": [
+          "To allow a function to accept a variable number of arguments.",
+          "To define default values for function parameters.",
+          "To enforce type checking for arguments.",
+          "To specify the return type of the function."
+        ],
+        "answer": "To allow a function to accept a variable number of arguments.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "How can you read a file in Python?",
+        "options": [
+          "Using the `open()` function with a context manager.",
+          "By directly accessing the file path.",
+          "Using the `file()` function.",
+          "By importing the `readfile` module."
+        ],
+        "answer": "Using the `open()` function with a context manager.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is a lambda function in Python?",
+        "options": [
+          "An anonymous function defined with the `lambda` keyword.",
+          "A type of class method.",
+          "A built-in function for sorting.",
+          "A way to define global variables."
+        ],
+        "answer": "An anonymous function defined with the `lambda` keyword.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the purpose of the `self` parameter in instance methods?",
+        "options": [
+          "To refer to the instance of the class within the method.",
+          "To define static methods.",
+          "To create class-level variables.",
+          "To allow multiple inheritance."
+        ],
+        "answer": "To refer to the instance of the class within the method.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the use of the `super()` function in Python?",
+        "options": [
+          "To call a method from the parent class.",
+          "To create a new class.",
+          "To manage memory.",
+          "To handle exceptions."
+        ],
+        "answer": "To call a method from the parent class.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "How can you define a custom exception in Python?",
+        "options": [
+          "By creating a new class that inherits from the `Exception` class.",
+          "By using built-in exceptions.",
+          "By defining a function that raises an error.",
+          "By using the `raise` keyword only."
+        ],
+        "answer": "By creating a new class that inherits from the `Exception` class.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is a dictionary comprehension in Python?",
+        "options": [
+          "A concise way to create dictionaries using a single line of code.",
+          "A method for iterating through dictionaries.",
+          "A way to handle exceptions in dictionaries.",
+          "A technique for formatting dictionary keys."
+        ],
+        "answer": "A concise way to create dictionaries using a single line of code.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

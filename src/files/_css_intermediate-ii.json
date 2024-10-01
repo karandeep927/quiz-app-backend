@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What does the `display: inline-block;` property do?",
+        "options": [
+          "It allows elements to be positioned next to each other while maintaining their block-level properties.",
+          "It makes elements act like inline elements without line breaks.",
+          "It creates a block-level element that can contain other block and inline elements.",
+          "It positions elements absolutely within their parent container."
+        ],
+        "answer": "It allows elements to be positioned next to each other while maintaining their block-level properties.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How can you create a responsive design using media queries?",
+        "options": [
+          "By using `@media` rules to apply different styles based on device characteristics.",
+          "By setting fixed widths for all elements.",
+          "By using percentages for all element widths.",
+          "By using JavaScript to detect screen size."
+        ],
+        "answer": "By using `@media` rules to apply different styles based on device characteristics.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the purpose of the `z-index` property in CSS?",
+        "options": [
+          "It controls the stacking order of elements that overlap.",
+          "It sets the size of an element's box.",
+          "It defines the distance between elements.",
+          "It specifies the opacity level of an element."
+        ],
+        "answer": "It controls the stacking order of elements that overlap.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "How do you center an element using margin auto?",
+        "options": [
+          "By setting `margin: auto;` on a block element with a specified width.",
+          "By using `text-align: center;` on the parent container.",
+          "By using `position: absolute;` and aligning it to the center.",
+          "By using Flexbox to center the element."
+        ],
+        "answer": "By setting `margin: auto;` on a block element with a specified width.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the `calc()` function in CSS used for?",
+        "options": [
+          "It performs calculations to set CSS property values.",
+          "It calculates the length of elements on the page.",
+          "It defines custom CSS functions for reuse.",
+          "It automatically adjusts element sizes based on viewport."
+        ],
+        "answer": "It performs calculations to set CSS property values.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What does the `position: absolute;` property do?",
+        "options": [
+          "It positions an element relative to its nearest positioned ancestor.",
+          "It positions an element relative to the viewport.",
+          "It fixes an element in place during scrolling.",
+          "It positions an element in the normal document flow."
+        ],
+        "answer": "It positions an element relative to its nearest positioned ancestor.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "How do you create a CSS transition effect?",
+        "options": [
+          "By using the `transition` property to define which properties to animate and their durations.",
+          "By applying keyframe animations with `@keyframes`.",
+          "By using JavaScript to trigger animations.",
+          "By setting the `animation` property on the element."
+        ],
+        "answer": "By using the `transition` property to define which properties to animate and their durations.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the purpose of the `flex-direction` property in Flexbox?",
+        "options": [
+          "It defines the direction in which flex items are placed in the flex container.",
+          "It controls the alignment of flex items.",
+          "It specifies the size of flex items.",
+          "It sets the order of flex items."
+        ],
+        "answer": "It defines the direction in which flex items are placed in the flex container.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "How do you create a CSS grid layout?",
+        "options": [
+          "By using `display: grid;` and defining rows and columns with `grid-template-rows` and `grid-template-columns`.",
+          "By setting `display: block;` on the container.",
+          "By applying Flexbox properties to the container.",
+          "By using multiple `float` properties on the child elements."
+        ],
+        "answer": "By using `display: grid;` and defining rows and columns with `grid-template-rows` and `grid-template-columns`.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What does the `transition-delay` property do?",
+        "options": [
+          "It specifies a delay before the transition effect starts.",
+          "It defines the duration of the transition effect.",
+          "It controls the timing function of the transition.",
+          "It sets the end state of the transition."
+        ],
+        "answer": "It specifies a delay before the transition effect starts.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `join()` method in Python?",
+        "options": [
+          "To concatenate strings from an iterable with a specified separator.",
+          "To split a string into a list.",
+          "To check if a string contains a substring.",
+          "To reverse a string."
+        ],
+        "answer": "To concatenate strings from an iterable with a specified separator.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How can you convert a list to a tuple in Python?",
+        "options": [
+          "Using the `tuple()` constructor.",
+          "Using the `list()` constructor.",
+          "Using the `set()` constructor.",
+          "Using the `convert()` method."
+        ],
+        "answer": "Using the `tuple()` constructor.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is a lambda function in Python?",
+        "options": [
+          "An anonymous function defined with the `lambda` keyword.",
+          "A function that can be called by its name.",
+          "A function that has no return value.",
+          "A function that can only take one argument."
+        ],
+        "answer": "An anonymous function defined with the `lambda` keyword.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What does the `map()` function do in Python?",
+        "options": [
+          "Applies a function to all items in an iterable and returns a map object.",
+          "Filters elements from an iterable.",
+          "Sorts the elements of an iterable.",
+          "Reverses the order of items in an iterable."
+        ],
+        "answer": "Applies a function to all items in an iterable and returns a map object.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "How do you create a class in Python?",
+        "options": [
+          "Using the `class` keyword followed by the class name.",
+          "Using the `def` keyword followed by the class name.",
+          "Using the `create` keyword.",
+          "Using the `object` keyword."
+        ],
+        "answer": "Using the `class` keyword followed by the class name.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is the use of the `self` parameter in class methods?",
+        "options": [
+          "To refer to the instance of the class.",
+          "To refer to the class itself.",
+          "To define class-level attributes.",
+          "To specify default values for parameters."
+        ],
+        "answer": "To refer to the instance of the class.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "How can you iterate over a dictionary in Python?",
+        "options": [
+          "Using a for loop to iterate over its keys or values.",
+          "Using the `iterate()` function.",
+          "Using a while loop.",
+          "Dictionaries cannot be iterated."
+        ],
+        "answer": "Using a for loop to iterate over its keys or values.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the purpose of the `filter()` function in Python?",
+        "options": [
+          "To filter elements from an iterable based on a function.",
+          "To transform elements in an iterable.",
+          "To combine multiple iterables.",
+          "To sort an iterable."
+        ],
+        "answer": "To filter elements from an iterable based on a function.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "How can you check if a key exists in a dictionary?",
+        "options": [
+          "By using the `in` keyword.",
+          "By using the `exists()` method.",
+          "By using the `has_key()` method.",
+          "By checking the length of the dictionary."
+        ],
+        "answer": "By using the `in` keyword.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the output of `print(type([]))` in Python?",
+        "options": [
+          "<class 'list'>",
+          "<class 'dict'>",
+          "<class 'tuple'>",
+          "<class 'set'>"
+        ],
+        "answer": "<class 'list'>",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

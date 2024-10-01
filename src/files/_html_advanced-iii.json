@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `contenteditable` attribute in HTML?",
+        "options": [
+          "It specifies whether the content of an element is editable by the user.",
+          "It defines the content type of a form element.",
+          "It enables styling for interactive elements.",
+          "It restricts access to the element's content."
+        ],
+        "answer": "It specifies whether the content of an element is editable by the user.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How can you create a responsive design with the `<picture>` element?",
+        "options": [
+          "By using multiple `<source>` elements with different media queries.",
+          "By setting a fixed width for images.",
+          "By using CSS styles.",
+          "By applying JavaScript to change images dynamically."
+        ],
+        "answer": "By using multiple `<source>` elements with different media queries.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the purpose of the `<noscript>` tag?",
+        "options": [
+          "To provide alternative content for users who have disabled JavaScript.",
+          "To hide elements from browsers that support JavaScript.",
+          "To define scripts that should not be executed.",
+          "To indicate deprecated HTML elements."
+        ],
+        "answer": "To provide alternative content for users who have disabled JavaScript.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What does the `<base>` tag specify in an HTML document?",
+        "options": [
+          "The base URL for all relative URLs in the document.",
+          "The default language for the document.",
+          "The character encoding of the document.",
+          "The viewport settings for responsive design."
+        ],
+        "answer": "The base URL for all relative URLs in the document.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "How can you specify the character encoding for an HTML document?",
+        "options": [
+          "By using the `<meta charset='UTF-8'>` tag in the `<head>` section.",
+          "By setting the `encoding` attribute on the `<html>` tag.",
+          "By defining the character set in the HTTP headers.",
+          "By using the `setCharset` JavaScript function."
+        ],
+        "answer": "By using the `<meta charset='UTF-8'>` tag in the `<head>` section.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is the purpose of the `<link rel='stylesheet'>` tag?",
+        "options": [
+          "To link an external CSS stylesheet to the HTML document.",
+          "To define internal styles for an element.",
+          "To create a hyperlink to another web page.",
+          "To embed JavaScript files."
+        ],
+        "answer": "To link an external CSS stylesheet to the HTML document.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What does the `async` attribute do when included in a `<script>` tag?",
+        "options": [
+          "It allows the script to be executed asynchronously with the page loading.",
+          "It makes the script block the rendering of the page until it's loaded.",
+          "It ensures the script runs after the page is fully loaded.",
+          "It loads the script from an external source."
+        ],
+        "answer": "It allows the script to be executed asynchronously with the page loading.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What does the `<meta name='viewport'>` tag do?",
+        "options": [
+          "It controls the layout of the webpage on mobile browsers.",
+          "It defines the character set for the document.",
+          "It specifies the document's title.",
+          "It links external stylesheets."
+        ],
+        "answer": "It controls the layout of the webpage on mobile browsers.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the difference between `<section>` and `<div>` elements?",
+        "options": [
+          "`<section>` is semantic and represents a thematic grouping, while `<div>` is a non-semantic container.",
+          "Both are the same and can be used interchangeably.",
+          "`<div>` is used for grouping sections, while `<section>` is used for inline content.",
+          "`<section>` can have attributes, while `<div>` cannot."
+        ],
+        "answer": " `<section>` is semantic and represents a thematic grouping, while `<div>` is a non-semantic container.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What does the `<iframe>` element do?",
+        "options": [
+          "It embeds another HTML page within the current page.",
+          "It links to an external stylesheet.",
+          "It creates a new HTML document.",
+          "It defines a form for user input."
+        ],
+        "answer": "It embeds another HTML page within the current page.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

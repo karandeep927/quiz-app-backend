@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `@keyframes` rule in CSS?",
+        "options": [
+          "It defines the intermediate steps in a CSS animation sequence.",
+          "It specifies the styles for different media queries.",
+          "It sets the default styling for an element.",
+          "It creates a responsive design for different devices."
+        ],
+        "answer": "It defines the intermediate steps in a CSS animation sequence.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How can you make a list display horizontally instead of vertically?",
+        "options": [
+          "By setting `display: inline;` or `display: inline-block;` on the list items.",
+          "By applying `flex` properties to the list.",
+          "By using `float: left;` on the list items.",
+          "All of the above."
+        ],
+        "answer": "All of the above.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What does the `overflow` property control?",
+        "options": [
+          "It determines what happens when an element's content is too large for its container.",
+          "It specifies how to handle padding in an element.",
+          "It sets the maximum size of an element.",
+          "It manages the z-index of overlapping elements."
+        ],
+        "answer": "It determines what happens when an element's content is too large for its container.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the difference between `padding` and `margin`?",
+        "options": [
+          "Padding is the space between an element's content and its border; margin is the space outside the element.",
+          "Padding is the space outside the element; margin is the space between an element's content and its border.",
+          "Both have the same effect and can be used interchangeably.",
+          "Margin is only applicable to block elements; padding can be used for inline elements."
+        ],
+        "answer": "Padding is the space between an element's content and its border; margin is the space outside the element.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "How can you change the order of flex items?",
+        "options": [
+          "By using the `order` property on the flex items.",
+          "By rearranging the HTML structure.",
+          "By applying CSS Grid properties.",
+          "By using JavaScript to modify the DOM."
+        ],
+        "answer": "By using the `order` property on the flex items.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What does the `:nth-child()` selector do?",
+        "options": [
+          "It selects elements based on their position within a parent element.",
+          "It selects elements based on their class name.",
+          "It applies styles to all elements of a certain type.",
+          "It targets elements that match specific attributes."
+        ],
+        "answer": "It selects elements based on their position within a parent element.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "How can you create a fixed header that remains at the top of the viewport?",
+        "options": [
+          "By using `position: fixed;` with `top: 0;`.",
+          "By setting `position: absolute;` on the header.",
+          "By applying Flexbox properties to the header.",
+          "By using a CSS Grid layout."
+        ],
+        "answer": "By using `position: fixed;` with `top: 0;`.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is a CSS preprocessor, and why would you use one?",
+        "options": [
+          "A tool that extends CSS with variables, nesting, and functions to make it more maintainable.",
+          "A framework that automatically generates CSS styles.",
+          "A library that helps optimize CSS for better performance.",
+          "A plugin that simplifies CSS syntax."
+        ],
+        "answer": "A tool that extends CSS with variables, nesting, and functions to make it more maintainable.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What does the `box-shadow` property do?",
+        "options": [
+          "It applies a shadow effect around an element's box.",
+          "It controls the visibility of an element.",
+          "It defines the color of an element's border.",
+          "It sets the opacity level of an element."
+        ],
+        "answer": "It applies a shadow effect around an element's box.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "How do you create a custom CSS variable?",
+        "options": [
+          "By defining it with the `--` prefix in a selector and using `var(--variable-name)` to reference it.",
+          "By using the `custom` keyword before the variable name.",
+          "By declaring it in a `<style>` tag without any prefix.",
+          "By using JavaScript to create the variable."
+        ],
+        "answer": "By defining it with the `--` prefix in a selector and using `var(--variable-name)` to reference it.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

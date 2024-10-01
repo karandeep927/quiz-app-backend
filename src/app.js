@@ -20,9 +20,10 @@ app.use(cookieParser())
 const questionRoute = require('./routes/questionRoutes')
 const userRoutes = require('./routes/userRoutes')
 
+const quizRoute = require('./routes/quizRoute')
 app.get('/',(req,res)=>res.send('working'))
 
 app.use("/api/v1/questions",questionRoute)
 app.use("/api/v1/user",userRoutes);
-
+app.use("/quiz",quizRoute)
 module.exports = app

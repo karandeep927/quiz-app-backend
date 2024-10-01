@@ -3,7 +3,7 @@ const mongoose = require('mongoose')
 const connectDB = async () => {
     try {
         const connectionInstance = await mongoose.connect(`${process.env.MONGO_STRING}/quizDB`)
-        console.log(`\n MongoDB connected !! DB HOST: ${connectionInstance.connection.host}`);
+        console.log(`MongoDB connected !! DB HOST: ${connectionInstance.connection.host}`);
     } catch (error) {
         console.log("MONGODB connection FAILED ", error);
         process.exit(1)

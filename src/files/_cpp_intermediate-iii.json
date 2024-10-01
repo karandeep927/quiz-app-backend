@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the use of the `mutable` keyword in C++?",
+        "options": [
+          "It allows a member of an object to be modified even if the object is const.",
+          "It prevents modification of a class member.",
+          "It defines a variable with a default value.",
+          "It is used to declare a function as virtual."
+        ],
+        "answer": "It allows a member of an object to be modified even if the object is const.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "Which C++ standard library class provides random access iterators?",
+        "options": [
+          "std::vector",
+          "std::list",
+          "std::map",
+          "std::queue"
+        ],
+        "answer": "std::vector",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the output of the following code?\n```cpp\nstd::string s = \"abc\";\ns.push_back('d');\ncout << s;\n```",
+        "options": [
+          "abcd",
+          "abc",
+          "dabc",
+          "Error"
+        ],
+        "answer": "abcd",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "Which of the following types cannot be used as a key in a C++ `std::map`?",
+        "options": [
+          "A pointer",
+          "A `std::vector`",
+          "An `int`",
+          "A `std::string`"
+        ],
+        "answer": "A `std::vector`",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the purpose of the `friend` keyword in C++?",
+        "options": [
+          "It allows a non-member function to access private and protected members of a class.",
+          "It enables multiple inheritance.",
+          "It defines a function within a class.",
+          "It creates a copy of a class."
+        ],
+        "answer": "It allows a non-member function to access private and protected members of a class.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What happens if the following code is executed?\n```cpp\nint* ptr = new int[5];\ndelete ptr;\n```",
+        "options": [
+          "Undefined behavior, because delete should be used with `delete[]` for arrays.",
+          "Memory leak occurs.",
+          "The memory is correctly deallocated.",
+          "Error: pointer cannot be deleted."
+        ],
+        "answer": "Undefined behavior, because delete should be used with `delete[]` for arrays.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the correct way to define a pure virtual function in C++?",
+        "options": [
+          "`virtual void function() = 0;`",
+          "`void function() = 0;`",
+          "`virtual void function() {}`",
+          "`void function() override;`"
+        ],
+        "answer": "`virtual void function() = 0;`",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "In C++, what is a `lambda`?",
+        "options": [
+          "An anonymous function that can capture variables from its surrounding scope.",
+          "A function that is evaluated at compile time.",
+          "A function that can only be declared in a class.",
+          "A preprocessor directive."
+        ],
+        "answer": "An anonymous function that can capture variables from its surrounding scope.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the result of calling `std::move()` on an object in C++?",
+        "options": [
+          "It casts an object to an rvalue reference, enabling move semantics.",
+          "It copies the object to a new memory location.",
+          "It destroys the object immediately.",
+          "It creates a deep copy of the object."
+        ],
+        "answer": "It casts an object to an rvalue reference, enabling move semantics.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "How do you declare a function template in C++?",
+        "options": [
+          "`template<typename T> void function();`",
+          "`template class T function();`",
+          "`class<T> function();`",
+          "`typename<T> function();`"
+        ],
+        "answer": "`template<typename T> void function();`",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

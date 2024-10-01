@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What are the differences between class components and functional components?",
+        "options": [
+          "Class components can have state and lifecycle methods; functional components can only use hooks.",
+          "Functional components can have state and lifecycle methods; class components cannot.",
+          "Class components are always larger in size than functional components.",
+          "Functional components can only return JSX."
+        ],
+        "answer": "Class components can have state and lifecycle methods; functional components can only use hooks.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What is the purpose of `useReducer` hook?",
+        "options": [
+          "To manage complex state logic in functional components.",
+          "To perform side effects in functional components.",
+          "To access context values.",
+          "To handle events in functional components."
+        ],
+        "answer": "To manage complex state logic in functional components.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "How can you optimize performance in a React application?",
+        "options": [
+          "By using memoization techniques like `React.memo` and `useMemo`.",
+          "By increasing the number of components.",
+          "By minimizing the use of state.",
+          "By removing all props."
+        ],
+        "answer": "By using memoization techniques like `React.memo` and `useMemo`.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What does the `useRef` hook do?",
+        "options": [
+          "It allows you to persist values across renders without causing a re-render.",
+          "It creates a mutable reference to a DOM element.",
+          "It is used to manage component state.",
+          "It is used to perform side effects."
+        ],
+        "answer": "It allows you to persist values across renders without causing a re-render.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the purpose of `React.lazy`?",
+        "options": [
+          "To enable code-splitting and lazy loading of components.",
+          "To improve the performance of the entire application.",
+          "To reduce the size of the JavaScript bundle.",
+          "To manage state in functional components."
+        ],
+        "answer": "To enable code-splitting and lazy loading of components.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How do you handle forms in React?",
+        "options": [
+          "By using controlled components and managing their state.",
+          "By using unstructured forms without any state management.",
+          "By submitting the form directly to the server.",
+          "By using a third-party library only."
+        ],
+        "answer": "By using controlled components and managing their state.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the purpose of `React.memo`?",
+        "options": [
+          "To optimize functional components by preventing unnecessary re-renders.",
+          "To create class components.",
+          "To handle context in functional components.",
+          "To manage global state."
+        ],
+        "answer": "To optimize functional components by preventing unnecessary re-renders.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "How can you share state between components in React?",
+        "options": [
+          "By lifting state up to a common ancestor component.",
+          "By passing props directly to child components.",
+          "By using only local state within components.",
+          "By creating separate stateful components."
+        ],
+        "answer": "By lifting state up to a common ancestor component.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the purpose of the `useLayoutEffect` hook?",
+        "options": [
+          "To perform DOM measurements and synchronously re-render the component.",
+          "To perform side effects after painting the DOM.",
+          "To handle form inputs.",
+          "To access context values."
+        ],
+        "answer": "To perform DOM measurements and synchronously re-render the component.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is React's Context API used for?",
+        "options": [
+          "To manage global state and share it across components without props drilling.",
+          "To improve performance of individual components.",
+          "To handle lifecycle methods.",
+          "To render lists efficiently."
+        ],
+        "answer": "To manage global state and share it across components without props drilling.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

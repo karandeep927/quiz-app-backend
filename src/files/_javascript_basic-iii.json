@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the output of 'console.log(5 > 2)'?",
+        "options": [
+          "true",
+          "false",
+          "5",
+          "Error"
+        ],
+        "answer": "true",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "Which of the following is used to declare a block-scoped variable?",
+        "options": [
+          "let",
+          "var",
+          "const",
+          "All of the above"
+        ],
+        "answer": "let",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "How do you access the first element of an array named 'myArray'?",
+        "options": [
+          "myArray[0]",
+          "myArray(0)",
+          "myArray.first()",
+          "myArray[1]"
+        ],
+        "answer": "myArray[0]",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the default value of a variable that is declared but not initialized?",
+        "options": [
+          "undefined",
+          "null",
+          "0",
+          "false"
+        ],
+        "answer": "undefined",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What does the 'pop' method do in JavaScript arrays?",
+        "options": [
+          "It removes the last element from an array.",
+          "It adds a new element to the end of an array.",
+          "It creates a shallow copy of the array.",
+          "It returns the first element of the array."
+        ],
+        "answer": "It removes the last element from an array.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How do you create a new array in JavaScript?",
+        "options": [
+          "var myArray = [];",
+          "var myArray = new Array();",
+          "Both A and B.",
+          "myArray = {};"
+        ],
+        "answer": "Both A and B.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What keyword is used to define a class in JavaScript?",
+        "options": [
+          "class",
+          "function",
+          "define",
+          "object"
+        ],
+        "answer": "class",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "Which symbol is used for the strict equality operator in JavaScript?",
+        "options": [
+          "==",
+          "===",
+          "!=",
+          "!=="
+        ],
+        "answer": "===",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is an anonymous function?",
+        "options": [
+          "A function without a name.",
+          "A function that cannot be called.",
+          "A function defined inside another function.",
+          "A function that returns another function."
+        ],
+        "answer": "A function without a name.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "Which of the following is a JavaScript framework?",
+        "options": [
+          "React",
+          "Laravel",
+          "Django",
+          "Flask"
+        ],
+        "answer": "React",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

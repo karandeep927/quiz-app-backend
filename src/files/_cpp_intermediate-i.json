@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `virtual` keyword in C++?",
+        "options": [
+          "To allow derived classes to override a base class method.",
+          "To declare a constant variable.",
+          "To define a static function.",
+          "To allocate memory dynamically."
+        ],
+        "answer": "To allow derived classes to override a base class method.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "Which of the following is correct about copy constructors in C++?",
+        "options": [
+          "It is called when an object is passed by value.",
+          "It is called when an object is passed by reference.",
+          "It is called when an object is created using the `new` keyword.",
+          "It is called when an object is destroyed."
+        ],
+        "answer": "It is called when an object is passed by value.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "Which of the following operators cannot be overloaded in C++?",
+        "options": [
+          "sizeof",
+          "+",
+          "==",
+          "="
+        ],
+        "answer": "sizeof",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What does the `friend` keyword do in C++?",
+        "options": [
+          "It allows a function or another class to access private and protected members of a class.",
+          "It defines a function that can only be used within the same class.",
+          "It is used to declare a template class.",
+          "It provides an alias for an existing class."
+        ],
+        "answer": "It allows a function or another class to access private and protected members of a class.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "Which of the following is an example of a template function in C++?",
+        "options": [
+          "template <typename T> T add(T a, T b) { return a + b; }",
+          "template function add(int a, int b) { return a + b; }",
+          "function add(int a, int b) { return a + b; }",
+          "add(int a, int b) { return a + b; }"
+        ],
+        "answer": "template <typename T> T add(T a, T b) { return a + b; }",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is the output of the following code snippet?\n```cpp\nint arr[] = {1, 2, 3, 4};\ncout << *(arr + 2);\n```",
+        "options": [
+          "3",
+          "1",
+          "2",
+          "4"
+        ],
+        "answer": "3",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "Which of the following statements about destructors is true in C++?",
+        "options": [
+          "A destructor cannot take arguments and cannot be overloaded.",
+          "A destructor must be declared with the `virtual` keyword.",
+          "Destructors are automatically called after an object is copied.",
+          "You can define multiple destructors in a class."
+        ],
+        "answer": "A destructor cannot take arguments and cannot be overloaded.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the difference between `struct` and `class` in C++?",
+        "options": [
+          "By default, members of a `struct` are public, while members of a `class` are private.",
+          "A `struct` cannot have member functions, while a `class` can.",
+          "A `struct` can only contain primitive data types.",
+          "A `class` is faster than a `struct`."
+        ],
+        "answer": "By default, members of a `struct` are public, while members of a `class` are private.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "Which of the following correctly defines a function that returns a pointer to an integer in C++?",
+        "options": [
+          "int* func();",
+          "int func();",
+          "int &func();",
+          "int** func();"
+        ],
+        "answer": "int* func();",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the output of the following code snippet?\n```cpp\nint x = 10;\nint y = 20;\ncout << (x > y ? x : y);\n```",
+        "options": [
+          "20",
+          "10",
+          "0",
+          "30"
+        ],
+        "answer": "20",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

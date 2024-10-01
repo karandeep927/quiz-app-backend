@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `calc()` function in CSS?",
+        "options": [
+          "It performs calculations to set CSS property values dynamically.",
+          "It calculates the size of elements based on viewport dimensions.",
+          "It computes color values for gradients.",
+          "It is used to determine the positioning of elements."
+        ],
+        "answer": "It performs calculations to set CSS property values dynamically.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What does the `will-change` property do in CSS?",
+        "options": [
+          "It hints to the browser which properties are likely to change, enabling optimizations.",
+          "It defines which elements should be rendered before others.",
+          "It animates an element's changes smoothly.",
+          "It specifies the style changes that should occur on user interaction."
+        ],
+        "answer": "It hints to the browser which properties are likely to change, enabling optimizations.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "How do CSS Grid and Flexbox differ in their layout capabilities?",
+        "options": [
+          "CSS Grid allows two-dimensional layouts, while Flexbox is one-dimensional.",
+          "Flexbox is only for horizontal layouts, while Grid is for vertical.",
+          "CSS Grid is easier to use for responsive designs than Flexbox.",
+          "Flexbox requires a parent container to work, while Grid does not."
+        ],
+        "answer": "CSS Grid allows two-dimensional layouts, while Flexbox is one-dimensional.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the purpose of CSS custom properties (variables)?",
+        "options": [
+          "They allow the reuse of values throughout the stylesheet and support dynamic changes.",
+          "They are used to define fixed styles that cannot be changed.",
+          "They improve loading performance by reducing the number of CSS rules.",
+          "They replace the need for media queries."
+        ],
+        "answer": "They allow the reuse of values throughout the stylesheet and support dynamic changes.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "How can the `@supports` rule be used in CSS?",
+        "options": [
+          "It applies styles based on browser support for specific CSS features.",
+          "It defines media queries for different screen sizes.",
+          "It adds comments to the CSS code.",
+          "It allows for importing other stylesheets conditionally."
+        ],
+        "answer": "It applies styles based on browser support for specific CSS features.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is the difference between absolute and relative positioning in CSS?",
+        "options": [
+          "Absolute positioning is relative to the nearest positioned ancestor, while relative positioning is relative to the element's original position.",
+          "Relative positioning is relative to the viewport, while absolute positioning is relative to the document flow.",
+          "Absolute positioning does not remove the element from the document flow, while relative positioning does.",
+          "Relative positioning is only for inline elements, while absolute positioning is for block elements."
+        ],
+        "answer": "Absolute positioning is relative to the nearest positioned ancestor, while relative positioning is relative to the element's original position.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "How can you create a CSS triangle?",
+        "options": [
+          "By setting the width and height to 0 and using border properties to create a triangle effect.",
+          "By using the `clip-path` property.",
+          "By utilizing the `transform` property.",
+          "By applying a gradient to a square element."
+        ],
+        "answer": "By setting the width and height to 0 and using border properties to create a triangle effect.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What does the `object-fit` property do in CSS?",
+        "options": [
+          "It specifies how an element should be resized to fit its container.",
+          "It controls the visibility of an element.",
+          "It defines how text should be aligned within a container.",
+          "It sets the layout of an element based on its content."
+        ],
+        "answer": "It specifies how an element should be resized to fit its container.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the purpose of the `z-index` property in CSS?",
+        "options": [
+          "It controls the stacking order of positioned elements.",
+          "It defines the size of an element.",
+          "It sets the transparency of an element.",
+          "It changes the layout of an element."
+        ],
+        "answer": "It controls the stacking order of positioned elements.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "How does the `:nth-child()` selector work in CSS?",
+        "options": [
+          "It selects elements based on their position within a parent element.",
+          "It selects elements based on their class or ID.",
+          "It applies styles to all children of an element.",
+          "It targets elements that match a specific attribute."
+        ],
+        "answer": "It selects elements based on their position within a parent element.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

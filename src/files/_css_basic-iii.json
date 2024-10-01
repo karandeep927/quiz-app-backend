@@ -1,0 +1,126 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `margin` property in CSS?",
+        "options": [
+          "To create space inside an element.",
+          "To set the space around an element.",
+          "To change the color of an element.",
+          "To set the size of an element."
+        ],
+        "answer": "To set the space around an element.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How do you change the text color of an element?",
+        "options": [
+          "color: blue;",
+          "text-color: blue;",
+          "font-color: blue;",
+          "text: blue;"
+        ],
+        "answer": "color: blue;",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "Which property is used to set the space between the border and the content of an element?",
+        "options": [
+          "padding",
+          "margin",
+          "border-spacing",
+          "spacing"
+        ],
+        "answer": "padding",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What unit is used to measure font size in CSS?",
+        "options": [
+          "px",
+          "em",
+          "rem",
+          "% and pt",
+          "All of the above"
+        ],
+        "answer": "All of the above",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "Which CSS property controls the text alignment?",
+        "options": [
+          "text-align",
+          "align-text",
+          "text-position",
+          "text-justify"
+        ],
+        "answer": "text-align",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How do you make a list in CSS horizontal?",
+        "options": [
+          "Set `display: inline;` on the `li` elements.",
+          "Use `display: block;` on the `ul` element.",
+          "Set `list-style-type: none;`.",
+          "Change the font-size."
+        ],
+        "answer": "Set `display: inline;` on the `li` elements.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "Which property is used to add a shadow effect to text?",
+        "options": [
+          "text-shadow",
+          "shadow",
+          "box-shadow",
+          "text-effect"
+        ],
+        "answer": "text-shadow",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the default value of the `position` property in CSS?",
+        "options": [
+          "static",
+          "relative",
+          "absolute",
+          "fixed"
+        ],
+        "answer": "static",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "Which CSS property is used to control the visibility of an element?",
+        "options": [
+          "visibility",
+          "display",
+          "opacity",
+          "all of the above"
+        ],
+        "answer": "all of the above",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "How do you create a CSS comment?",
+        "options": [
+          "// This is a comment",
+          "/* This is a comment */",
+          "<!-- This is a comment -->",
+          "# This is a comment"
+        ],
+        "answer": "/* This is a comment */",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

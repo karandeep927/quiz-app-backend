@@ -1,0 +1,75 @@
+{
+    "questions":[
+        {
+          "question": "What is the correct file extension for Python files?",
+          "answer": ".py",
+          "selectedOption": -1,
+          "questionNumber": 1,
+          "options": [".pt", ".py", ".pyt", ".python"]
+        },
+        {
+          "question": "Which of the following is a mutable data type in Python?",
+          "answer": "List",
+          "selectedOption": -1,
+          "questionNumber": 2,
+          "options": ["List", "Tuple", "String", "Integer"]
+        },
+        {
+          "question": "What is the output of the following code: print(2 ** 3)?",
+          "answer": "8",
+          "selectedOption": -1,
+          "questionNumber": 3,
+          "options": ["5", "8", "6", "9"]
+        },
+        {
+          "question": "How do you insert COMMENTS in Python code?",
+          "answer": "# This is a comment",
+          "selectedOption": -1,
+          "questionNumber": 4,
+          "options": ["// This is a comment", "# This is a comment", "/* This is a comment */", "<!-- This is a comment -->"]
+        },
+        {
+          "question": "Which function is used to get the length of a list in Python?",
+          "answer": "len()",
+          "selectedOption": -1,
+          "questionNumber": 5,
+          "options": ["size()", "length()", "len()", "count()"]
+        },
+        {
+          "question": "Which operator is used for floor division in Python?",
+          "answer": "//",
+          "selectedOption": -1,
+          "questionNumber": 6,
+          "options": ["/", "*", "%", "//"]
+        },
+        {
+          "question": "Which method can be used to convert an object into a string in Python?",
+          "answer": "str()",
+          "selectedOption": -1,
+          "questionNumber": 7,
+          "options": ["str()", "toString()", "convert()", "repr()"]
+        },
+        {
+          "question": "Which keyword is used to define a function in Python?",
+          "answer": "def",
+          "selectedOption": -1,
+          "questionNumber": 8,
+          "options": ["function", "func", "def", "lambda"]
+        },
+        {
+          "question": "Which of the following is the correct way to create a dictionary in Python?",
+          "answer": "{\"key\": \"value\"}",
+          "selectedOption": -1,
+          "questionNumber": 9,
+          "options": ["{key=value}", "{\"key\": \"value\"}", "{key:value}", "[key=value]"]
+        },
+        {
+          "question": "Which of the following is NOT a keyword in Python?",
+          "answer": "eval",
+          "selectedOption": -1,
+          "questionNumber": 10,
+          "options": ["pass", "finally", "eval", "except"]
+        }
+      ]
+      
+}

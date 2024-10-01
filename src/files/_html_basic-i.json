@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hypertext Markup Language",
+        "Hightext Markup Language",
+        "Hyperlink Text Markup Language",
+        "Hypertext Multi-Language"
+      ],
+      "answer": "Hypertext Markup Language",
+      "selectedOption": -1,
+      "questionNumber": 1
+    },
+    {
+      "question": "Which HTML element is used to define the title of a webpage?",
+      "options": [
+        "<title>",
+        "<head>",
+        "<meta>",
+        "<header>"
+      ],
+      "answer": "<title>",
+      "selectedOption": -1,
+      "questionNumber": 2
+    },
+    {
+      "question": "What is the purpose of the `<head>` element in HTML?",
+      "options": [
+        "It contains metadata and links to external resources like CSS and JavaScript.",
+        "It defines the main content of the webpage.",
+        "It provides the title of the webpage.",
+        "It contains the footer content of the webpage."
+      ],
+      "answer": "It contains metadata and links to external resources like CSS and JavaScript.",
+      "selectedOption": -1,
+      "questionNumber": 3
+    },
+    {
+      "question": "Which HTML element is used to create a hyperlink?",
+      "options": [
+        "<a>",
+        "<link>",
+        "<href>",
+        "<url>"
+      ],
+      "answer": "<a>",
+      "selectedOption": -1,
+      "questionNumber": 4
+    },
+    {
+      "question": "How do you create a numbered list in HTML?",
+      "options": [
+        "<ol>",
+        "<ul>",
+        "<list>",
+        "<dl>"
+      ],
+      "answer": "<ol>",
+      "selectedOption": -1,
+      "questionNumber": 5
+    },
+    {
+      "question": "What is the correct HTML element for inserting an image?",
+      "options": [
+        "<img>",
+        "<picture>",
+        "<image>",
+        "<src>"
+      ],
+      "answer": "<img>",
+      "selectedOption": -1,
+      "questionNumber": 6
+    },
+    {
+      "question": "Which attribute is used to specify the source of an image in HTML?",
+      "options": [
+        "src",
+        "href",
+        "alt",
+        "link"
+      ],
+      "answer": "src",
+      "selectedOption": -1,
+      "questionNumber": 7
+    },
+    {
+      "question": "What does the `<form>` element do in HTML?",
+      "options": [
+        "It defines an HTML form for user input.",
+        "It creates a container for other elements.",
+        "It specifies the document's metadata.",
+        "It defines a section of the webpage."
+      ],
+      "answer": "It defines an HTML form for user input.",
+      "selectedOption": -1,
+      "questionNumber": 8
+    },
+    {
+      "question": "Which HTML element is used to define a table?",
+      "options": [
+        "<table>",
+        "<tab>",
+        "<tr>",
+        "<data>"
+      ],
+      "answer": "<table>",
+      "selectedOption": -1,
+      "questionNumber": 9
+    },
+    {
+      "question": "How do you define a table row in HTML?",
+      "options": [
+        "<tr>",
+        "<td>",
+        "<th>",
+        "<row>"
+      ],
+      "answer": "<tr>",
+      "selectedOption": -1,
+      "questionNumber": 10
+    },
+    {
+      "question": "Which HTML element is used to define a table header?",
+      "options": [
+        "<th>",
+        "<td>",
+        "<header>",
+        "<caption>"
+      ],
+      "answer": "<th>",
+      "selectedOption": -1,
+      "questionNumber": 11
+    },
+    {
+      "question": "How do you specify a class for an HTML element?",
+      "options": [
+        "class",
+        "id",
+        "style",
+        "name"
+      ],
+      "answer": "class",
+      "selectedOption": -1,
+      "questionNumber": 12
+    },
+    {
+      "question": "What is the purpose of the `<meta>` tag in HTML?",
+      "options": [
+        "To provide metadata about the HTML document.",
+        "To define the main content of the webpage.",
+        "To create a navigation menu.",
+        "To set the background color of the page."
+      ],
+      "answer": "To provide metadata about the HTML document.",
+      "selectedOption": -1,
+      "questionNumber": 13
+    },
+    {
+      "question": "Which element is used to define a block of code in HTML?",
+      "options": [
+        "<pre>",
+        "<code>",
+        "<script>",
+        "<block>"
+      ],
+      "answer": "<pre>",
+      "selectedOption": -1,
+      "questionNumber": 14
+    },
+    {
+      "question": "What is the purpose of the `<iframe>` element in HTML?",
+      "options": [
+        "To embed another HTML page within the current page.",
+        "To define a section of content.",
+        "To create a form for user input.",
+        "To insert a video into the page."
+      ],
+      "answer": "To embed another HTML page within the current page.",
+      "selectedOption": -1,
+      "questionNumber": 15
+    }
+  ]
+}

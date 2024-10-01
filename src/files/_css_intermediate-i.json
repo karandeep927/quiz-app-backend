@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "What does the CSS `box-sizing` property do?",
+      "options": [
+        "It defines how the width and height of an element are calculated: whether they include padding and borders or not.",
+        "It defines the border radius of an element.",
+        "It defines how an element’s content overflows.",
+        "It adjusts the spacing between elements."
+      ],
+      "answer": "It defines how the width and height of an element are calculated: whether they include padding and borders or not.",
+      "selectedOption": -1,
+      "questionNumber": 1
+    },
+    {
+      "question": "Which property is used to control the order of flex items in a flex container?",
+      "options": [
+        "order",
+        "flex-order",
+        "z-index",
+        "align-items"
+      ],
+      "answer": "order",
+      "selectedOption": -1,
+      "questionNumber": 2
+    },
+    {
+      "question": "How can you make an element's text overflow with an ellipsis (...) when it is too long?",
+      "options": [
+        "text-overflow: ellipsis;",
+        "overflow: ellipsis;",
+        "text-truncate: ellipsis;",
+        "overflow-text: ellipsis;"
+      ],
+      "answer": "text-overflow: ellipsis;",
+      "selectedOption": -1,
+      "questionNumber": 3
+    },
+    {
+      "question": "What does the `z-index` property do in CSS?",
+      "options": [
+        "It controls the vertical stacking order of elements that overlap.",
+        "It controls the horizontal position of elements.",
+        "It defines the transition duration for animations.",
+        "It sets the distance between the element and the top of the page."
+      ],
+      "answer": "It controls the vertical stacking order of elements that overlap.",
+      "selectedOption": -1,
+      "questionNumber": 4
+    },
+    {
+      "question": "Which CSS property is used to create space between the content and the border of an element?",
+      "options": [
+        "padding",
+        "margin",
+        "border-spacing",
+        "line-height"
+      ],
+      "answer": "padding",
+      "selectedOption": -1,
+      "questionNumber": 5
+    },
+    {
+      "question": "How do you apply multiple background images in CSS?",
+      "options": [
+        "background-image: url('image1.png'), url('image2.png');",
+        "backgrounds: image1.png, image2.png;",
+        "background-image: url('image1.png') + url('image2.png');",
+        "multi-background: url('image1.png') and url('image2.png');"
+      ],
+      "answer": "background-image: url('image1.png'), url('image2.png');",
+      "selectedOption": -1,
+      "questionNumber": 6
+    },
+    {
+      "question": "Which CSS property is used to define a grid layout?",
+      "options": [
+        "display: grid;",
+        "grid-template:",
+        "grid-columns:",
+        "layout: grid;"
+      ],
+      "answer": "display: grid;",
+      "selectedOption": -1,
+      "questionNumber": 7
+    },
+    {
+      "question": "What does the `flex-grow` property do in a flex container?",
+      "options": [
+        "It defines the ability for a flex item to grow if necessary.",
+        "It defines the shrink factor for a flex item.",
+        "It aligns items along the flex container's main axis.",
+        "It sets the width of a flex item."
+      ],
+      "answer": "It defines the ability for a flex item to grow if necessary.",
+      "selectedOption": -1,
+      "questionNumber": 8
+    },
+    {
+      "question": "How can you center an element horizontally using Flexbox?",
+      "options": [
+        "justify-content: center;",
+        "align-items: center;",
+        "center-align: horizontal;",
+        "horizontal-align: center;"
+      ],
+      "answer": "justify-content: center;",
+      "selectedOption": -1,
+      "questionNumber": 9
+    },
+    {
+      "question": "Which property would you use to animate the change of CSS properties?",
+      "options": [
+        "transition",
+        "animation",
+        "animate",
+        "keyframes"
+      ],
+      "answer": "transition",
+      "selectedOption": -1,
+      "questionNumber": 10
+    },
+    {
+      "question": "What is the purpose of the `min-width` property?",
+      "options": [
+        "It sets the minimum width an element can have.",
+        "It sets the initial width of an element.",
+        "It defines the maximum width for an element.",
+        "It ensures the element will not shrink smaller than the viewport."
+      ],
+      "answer": "It sets the minimum width an element can have.",
+      "selectedOption": -1,
+      "questionNumber": 11
+    },
+    {
+      "question": "How do you create a CSS variable?",
+      "options": [
+        "--main-color: red;",
+        "variable: --main-color;",
+        "$main-color: red;",
+        "var(--main-color);"
+      ],
+      "answer": "--main-color: red;",
+      "selectedOption": -1,
+      "questionNumber": 12
+    },
+    {
+      "question": "What is the default value of the `flex-direction` property?",
+      "options": [
+        "row",
+        "column",
+        "row-reverse",
+        "column-reverse"
+      ],
+      "answer": "row",
+      "selectedOption": -1,
+      "questionNumber": 13
+    },
+    {
+      "question": "Which CSS property can create rounded corners for an element?",
+      "options": [
+        "border-radius",
+        "corner-rounding",
+        "border-corner",
+        "round-corner"
+      ],
+      "answer": "border-radius",
+      "selectedOption": -1,
+      "questionNumber": 14
+    },
+    {
+      "question": "What does the `object-fit` property do?",
+      "options": [
+        "It specifies how an image or video should be resized to fit its container.",
+        "It aligns objects in a flex container.",
+        "It specifies the aspect ratio of an image.",
+        "It adjusts the transparency of an object."
+      ],
+      "answer": "It specifies how an image or video should be resized to fit its container.",
+      "selectedOption": -1,
+      "questionNumber": 15
+    }
+  ]
+}

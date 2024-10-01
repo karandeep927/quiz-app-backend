@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "Hyper Text Markup Language",
+          "High-Level Text Markup Language",
+          "Hyperlink and Text Markup Language",
+          "Hyperlink Text Markup Language"
+        ],
+        "answer": "Hyper Text Markup Language",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "Which tag is used to create a hyperlink in HTML?",
+        "options": [
+          "<link>",
+          "<a>",
+          "<hyperlink>",
+          "<url>"
+        ],
+        "answer": "<a>",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "Which HTML element defines the title of a document?",
+        "options": [
+          "<head>",
+          "<title>",
+          "<meta>",
+          "<header>"
+        ],
+        "answer": "<title>",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the correct HTML for adding an image?",
+        "options": [
+          "<image src='url'>",
+          "<img src='url'>",
+          "<img href='url'>",
+          "<picture src='url'>"
+        ],
+        "answer": "<img src='url'>",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "Which tag is used for creating an unordered list?",
+        "options": [
+          "<list>",
+          "<ol>",
+          "<ul>",
+          "<li>"
+        ],
+        "answer": "<ul>",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What does the `<br>` tag do?",
+        "options": [
+          "Inserts a horizontal line.",
+          "Creates a line break.",
+          "Ends a paragraph.",
+          "Inserts a new page."
+        ],
+        "answer": "Creates a line break.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the purpose of the `<head>` element in an HTML document?",
+        "options": [
+          "To contain metadata and links to scripts and styles.",
+          "To define the main content of the document.",
+          "To create a footer for the document.",
+          "To display the title of the document."
+        ],
+        "answer": "To contain metadata and links to scripts and styles.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "How do you create a table in HTML?",
+        "options": [
+          "<table><tr><td></td></tr></table>",
+          "<table><row><cell></cell></row></table>",
+          "<table><header><body></body></header></table>",
+          "<table><data><row></row></data></table>"
+        ],
+        "answer": "<table><tr><td></td></tr></table>",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "Which HTML tag is used to define an ordered list?",
+        "options": [
+          "<ul>",
+          "<list>",
+          "<ol>",
+          "<dl>"
+        ],
+        "answer": "<ol>",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the correct HTML for creating a checkbox?",
+        "options": [
+          "<input type='checkbox'>",
+          "<checkbox>",
+          "<input type='check'>",
+          "<check>"
+        ],
+        "answer": "<input type='checkbox'>",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is a closure in JavaScript?",
+        "options": [
+          "A function that retains access to its lexical scope.",
+          "An object that represents the scope of a function.",
+          "A method for creating classes.",
+          "A way to execute code in parallel."
+        ],
+        "answer": "A function that retains access to its lexical scope.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What does the `this` keyword refer to in a function?",
+        "options": [
+          "The function itself.",
+          "The global object.",
+          "The object that calls the function.",
+          "The parent scope."
+        ],
+        "answer": "The object that calls the function.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the purpose of the `bind()` method?",
+        "options": [
+          "To create a new function that, when called, has its `this` keyword set to the provided value.",
+          "To invoke a function immediately.",
+          "To merge two objects.",
+          "To create a shallow copy of an object."
+        ],
+        "answer": "To create a new function that, when called, has its `this` keyword set to the provided value.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is event delegation in JavaScript?",
+        "options": [
+          "Attaching a single event listener to a parent element instead of multiple listeners to child elements.",
+          "Delegating tasks to another function.",
+          "Handling events in a separate script file.",
+          "Using promises to manage events."
+        ],
+        "answer": "Attaching a single event listener to a parent element instead of multiple listeners to child elements.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the purpose of the `Promise` object?",
+        "options": [
+          "To represent the eventual completion (or failure) of an asynchronous operation.",
+          "To define a function that executes immediately.",
+          "To create a callback function.",
+          "To handle synchronous operations."
+        ],
+        "answer": "To represent the eventual completion (or failure) of an asynchronous operation.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How do you handle errors in asynchronous code?",
+        "options": [
+          "Using try-catch blocks.",
+          "Using the `.catch()` method on Promises.",
+          "Both A and B.",
+          "Using a global error handler."
+        ],
+        "answer": "Both A and B.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the difference between `null` and `undefined`?",
+        "options": [
+          "`null` is an object, while `undefined` means a variable has been declared but not assigned a value.",
+          "`null` means a variable has been declared but not assigned a value, while `undefined` is an object.",
+          "Both are the same and can be used interchangeably.",
+          "`null` is a keyword, while `undefined` is a type."
+        ],
+        "answer": "`null` is an object, while `undefined` means a variable has been declared but not assigned a value.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the spread operator in JavaScript?",
+        "options": [
+          "It allows an iterable to be expanded in places where zero or more arguments are expected.",
+          "It spreads the properties of an object across multiple objects.",
+          "It is used to combine two or more arrays.",
+          "It creates a shallow copy of an object."
+        ],
+        "answer": "It allows an iterable to be expanded in places where zero or more arguments are expected.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "How do you convert a string to a number in JavaScript?",
+        "options": [
+          "Using the `Number()` function.",
+          "Using `parseInt()` or `parseFloat()`.",
+          "Using the unary plus operator (+).",
+          "All of the above."
+        ],
+        "answer": "All of the above.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What are IIFEs in JavaScript?",
+        "options": [
+          "Immediately Invoked Function Expressions that execute as soon as they are defined.",
+          "Functions that are called after a delay.",
+          "Functions that take an object as a parameter.",
+          "Functions that return a promise."
+        ],
+        "answer": "Immediately Invoked Function Expressions that execute as soon as they are defined.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

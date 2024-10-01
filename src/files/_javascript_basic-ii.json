@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What does the 'typeof' operator do in JavaScript?",
+        "options": [
+          "It returns the data type of a variable.",
+          "It checks if a variable is defined.",
+          "It converts a variable to a string.",
+          "It compares two values."
+        ],
+        "answer": "It returns the data type of a variable.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "How do you declare a variable in JavaScript?",
+        "options": [
+          "Using the 'var', 'let', or 'const' keywords.",
+          "Using the 'define' keyword.",
+          "Using the 'declare' keyword.",
+          "Using the 'new' keyword."
+        ],
+        "answer": "Using the 'var', 'let', or 'const' keywords.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is the output of 'console.log(2 + 2)'?",
+        "options": [
+          "4",
+          "'4'",
+          "'2 + 2'",
+          "Error"
+        ],
+        "answer": "4",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the correct way to create a function in JavaScript?",
+        "options": [
+          "function myFunction() {}",
+          "create myFunction() {}",
+          "function:myFunction() {}",
+          "def myFunction() {}"
+        ],
+        "answer": "function myFunction() {}",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What does the 'push' method do in JavaScript arrays?",
+        "options": [
+          "It adds a new element to the end of an array.",
+          "It removes the last element from an array.",
+          "It adds a new element to the beginning of an array.",
+          "It creates a copy of the array."
+        ],
+        "answer": "It adds a new element to the end of an array.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How do you create an object in JavaScript?",
+        "options": [
+          "var obj = {};",
+          "var obj = new Object();",
+          "var obj = () => {};",
+          "Both A and B."
+        ],
+        "answer": "Both A and B.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the purpose of the 'return' statement in a function?",
+        "options": [
+          "To exit the function and return a value.",
+          "To call another function.",
+          "To define a variable.",
+          "To log a message to the console."
+        ],
+        "answer": "To exit the function and return a value.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "Which of the following is a valid way to declare a constant in JavaScript?",
+        "options": [
+          "const myConst = 5;",
+          "let myConst = 5;",
+          "var myConst = 5;",
+          "constant myConst = 5;"
+        ],
+        "answer": "const myConst = 5;",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What will 'console.log(0 == false)' output?",
+        "options": [
+          "true",
+          "false",
+          "undefined",
+          "Error"
+        ],
+        "answer": "true",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "How do you add a comment in JavaScript?",
+        "options": [
+          "// This is a comment",
+          "/* This is a comment */",
+          "// This is a comment; /* This is a comment */",
+          "Both A and B."
+        ],
+        "answer": "Both A and B.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

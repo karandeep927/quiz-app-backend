@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What are decorators in Python?",
+        "options": [
+          "Functions that modify the behavior of another function.",
+          "Classes that define additional functionality for objects.",
+          "Built-in functions for handling exceptions.",
+          "A way to optimize code performance."
+        ],
+        "answer": "Functions that modify the behavior of another function.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What is the purpose of the `super()` function?",
+        "options": [
+          "To call methods from a parent class.",
+          "To create an instance of a class.",
+          "To access class variables.",
+          "To handle exceptions."
+        ],
+        "answer": "To call methods from a parent class.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "How do you create a context manager in Python?",
+        "options": [
+          "By defining a class with `__enter__` and `__exit__` methods.",
+          "Using the `with` statement.",
+          "By creating a generator function.",
+          "By using the `contextlib` module."
+        ],
+        "answer": "By defining a class with `__enter__` and `__exit__` methods.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What are the differences between `@staticmethod` and `@classmethod`?",
+        "options": [
+          "`@staticmethod` does not take a reference to the class or instance, while `@classmethod` takes a reference to the class.",
+          "They are the same and can be used interchangeably.",
+          "`@staticmethod` can modify class state, while `@classmethod` cannot.",
+          "`@classmethod` can only be used on class methods."
+        ],
+        "answer": "`@staticmethod` does not take a reference to the class or instance, while `@classmethod` takes a reference to the class.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the purpose of the `__str__` method in Python?",
+        "options": [
+          "To define a string representation of an object.",
+          "To convert an object to a list.",
+          "To create a hash for an object.",
+          "To define equality comparison for objects."
+        ],
+        "answer": "To define a string representation of an object.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How can you optimize a slow function in Python?",
+        "options": [
+          "By using memoization.",
+          "By increasing the number of arguments.",
+          "By avoiding loops.",
+          "By reducing indentation levels."
+        ],
+        "answer": "By using memoization.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What are list comprehensions in Python?",
+        "options": [
+          "A concise way to create lists using a single line of code.",
+          "A method for iterating over lists.",
+          "A way to sort lists.",
+          "A technique for filtering lists."
+        ],
+        "answer": "A concise way to create lists using a single line of code.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the difference between an iterable and an iterator in Python?",
+        "options": [
+          "An iterable can be looped over, while an iterator is the object that keeps track of the current position.",
+          "Iterators are a subset of iterables.",
+          "Iterables cannot be looped over, while iterators can.",
+          "They are the same and can be used interchangeably."
+        ],
+        "answer": "An iterable can be looped over, while an iterator is the object that keeps track of the current position.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the purpose of the `itertools` module?",
+        "options": [
+          "To provide functions that create iterators for efficient looping.",
+          "To handle mathematical operations.",
+          "To optimize memory usage in lists.",
+          "To manipulate string objects."
+        ],
+        "answer": "To provide functions that create iterators for efficient looping.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "How can you raise a custom exception in Python?",
+        "options": [
+          "By using the `raise` statement followed by an instance of a custom exception class.",
+          "By using the `throw` keyword.",
+          "By defining a function that generates an error.",
+          "By calling the `exception` function."
+        ],
+        "answer": "By using the `raise` statement followed by an instance of a custom exception class.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

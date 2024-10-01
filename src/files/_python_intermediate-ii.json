@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `with` statement in Python?",
+        "options": [
+          "To simplify exception handling.",
+          "To ensure proper resource management.",
+          "To define inline functions.",
+          "To create context managers."
+        ],
+        "answer": "To ensure proper resource management.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What are Python decorators used for?",
+        "options": [
+          "To modify the behavior of a function or method.",
+          "To define global variables.",
+          "To handle exceptions.",
+          "To create classes."
+        ],
+        "answer": "To modify the behavior of a function or method.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "How do you create a generator in Python?",
+        "options": [
+          "By using the `yield` statement.",
+          "By using the `return` statement.",
+          "By defining a class with an `__iter__` method.",
+          "By using a list comprehension."
+        ],
+        "answer": "By using the `yield` statement.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the main difference between `deepcopy` and `copy` in Python?",
+        "options": [
+          "`deepcopy` creates a new object along with copies of nested objects, while `copy` creates a reference to the original object.",
+          "There is no difference; they are the same.",
+          "`copy` is faster than `deepcopy`.",
+          "`deepcopy` can only be used with mutable objects."
+        ],
+        "answer": "`deepcopy` creates a new object along with copies of nested objects, while `copy` creates a reference to the original object.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the purpose of the `property()` function in Python?",
+        "options": [
+          "To create managed attributes in classes.",
+          "To define static methods.",
+          "To override operators.",
+          "To handle exceptions."
+        ],
+        "answer": "To create managed attributes in classes.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What are Python’s built-in data types?",
+        "options": [
+          "List, Tuple, Set, Dictionary, String, Integer, Float, Boolean.",
+          "List, Array, Map, String.",
+          "Object, Array, Hashmap.",
+          "String, Character, Float, Double."
+        ],
+        "answer": "List, Tuple, Set, Dictionary, String, Integer, Float, Boolean.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the purpose of the `__init__` method in a class?",
+        "options": [
+          "To initialize instance attributes.",
+          "To define class-level attributes.",
+          "To create methods.",
+          "To handle exceptions."
+        ],
+        "answer": "To initialize instance attributes.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "How do you handle exceptions in Python?",
+        "options": [
+          "Using `try`, `except`, and `finally` blocks.",
+          "By checking the return value of functions.",
+          "Using the `raise` keyword only.",
+          "By defining error classes."
+        ],
+        "answer": "Using `try`, `except`, and `finally` blocks.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What does the `enumerate()` function do in Python?",
+        "options": [
+          "It adds a counter to an iterable and returns it as an enumerate object.",
+          "It sorts an iterable.",
+          "It filters elements from an iterable.",
+          "It reverses an iterable."
+        ],
+        "answer": "It adds a counter to an iterable and returns it as an enumerate object.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the difference between `is` and `==` in Python?",
+        "options": [
+          "`is` checks for object identity, while `==` checks for value equality.",
+          "`is` is used for strings only.",
+          "`is` checks the type, while `==` checks the value.",
+          "There is no difference; they are the same."
+        ],
+        "answer": "`is` checks for object identity, while `==` checks for value equality.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

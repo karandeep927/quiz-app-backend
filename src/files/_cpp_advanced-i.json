@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `virtual` keyword in C++?",
+        "options": [
+          "To enable a function to be overridden in a derived class.",
+          "To declare a function as static.",
+          "To create abstract classes.",
+          "To define a template function."
+        ],
+        "answer": "To enable a function to be overridden in a derived class.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What will be the output of this code: `int x = 10; int &ref = x; ref = 20; cout << x;`?",
+        "options": [
+          "10",
+          "20",
+          "Compilation Error",
+          "Undefined behavior"
+        ],
+        "answer": "20",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What is a `nullptr` in C++?",
+        "options": [
+          "A constant that represents a null pointer.",
+          "A pointer to an integer.",
+          "A pointer to a character.",
+          "An array with no elements."
+        ],
+        "answer": "A constant that represents a null pointer.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "Which of the following is a valid way to declare a pointer to an integer?",
+        "options": [
+          "`int *ptr;`",
+          "`int ptr[];`",
+          "`int &ptr;`",
+          "`int ptr;`"
+        ],
+        "answer": "`int *ptr;`",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the output of the following code: `cout << 10 / 3;`?",
+        "options": [
+          "3",
+          "3.3333",
+          "10/3",
+          "Error"
+        ],
+        "answer": "3",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "Which of the following is a feature of C++ templates?",
+        "options": [
+          "They allow functions and classes to operate with generic types.",
+          "They enforce strict type checking.",
+          "They are used to define macros.",
+          "They can only be used with primitive data types."
+        ],
+        "answer": "They allow functions and classes to operate with generic types.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "How do you dynamically allocate memory for an array of integers in C++?",
+        "options": [
+          "`int* arr = new int[10];`",
+          "`int arr = new int[10];`",
+          "`int arr[10];`",
+          "`int* arr = malloc(10 * sizeof(int));`"
+        ],
+        "answer": "`int* arr = new int[10];`",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the purpose of the `const` keyword when used with a member function in C++?",
+        "options": [
+          "It ensures that the function does not modify any member variables.",
+          "It declares the function as static.",
+          "It makes the function a constructor.",
+          "It allows the function to return a constant value."
+        ],
+        "answer": "It ensures that the function does not modify any member variables.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "Which of the following is true about destructors in C++?",
+        "options": [
+          "They are called when an object goes out of scope.",
+          "They must be called explicitly.",
+          "They can be overloaded.",
+          "They can take parameters."
+        ],
+        "answer": "They are called when an object goes out of scope.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the difference between `struct` and `class` in C++?",
+        "options": [
+          "In a `struct`, members are public by default; in a `class`, they are private by default.",
+          "There is no difference.",
+          "In a `class`, all members are public; in a `struct`, they are private.",
+          "A `class` cannot have functions as members."
+        ],
+        "answer": "In a `struct`, members are public by default; in a `class`, they are private by default.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

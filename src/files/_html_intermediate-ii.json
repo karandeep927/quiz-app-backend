@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What does the `data-*` attribute allow you to do in HTML?",
+        "options": [
+          "Store custom data private to the page or application.",
+          "Link external data sources to HTML elements.",
+          "Change the display of elements dynamically.",
+          "Specify the type of content in an element."
+        ],
+        "answer": "Store custom data private to the page or application.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "Which HTML element is used to define the header for a document or section?",
+        "options": [
+          "<head>",
+          "<header>",
+          "<h1>",
+          "<section>"
+        ],
+        "answer": "<header>",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "How do you create an unordered list in HTML?",
+        "options": [
+          "<ol>",
+          "<ul>",
+          "<list>",
+          "<item>"
+        ],
+        "answer": "<ul>",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the purpose of the `<figure>` element in HTML5?",
+        "options": [
+          "To encapsulate media content and its caption.",
+          "To define a section of a document.",
+          "To create a floating element.",
+          "To group headings and footers."
+        ],
+        "answer": "To encapsulate media content and its caption.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "Which HTML element is used to define a navigation section?",
+        "options": [
+          "<nav>",
+          "<navigation>",
+          "<menu>",
+          "<list>"
+        ],
+        "answer": "<nav>",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What does the `<mark>` element do in HTML?",
+        "options": [
+          "Highlights text for reference.",
+          "Defines a section of content that is important.",
+          "Creates a link to another document.",
+          "Styles text in bold."
+        ],
+        "answer": "Highlights text for reference.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "How do you specify that an iframe should take up the full width and height of its container?",
+        "options": [
+          "By setting width and height to 100%.",
+          "By using `style='fullscreen'`.",
+          "By using CSS with position absolute.",
+          "By setting its `src` to `full`."
+        ],
+        "answer": "By setting width and height to 100%.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "Which attribute is used to make an input field accept only email addresses?",
+        "options": [
+          "type='email'",
+          "format='email'",
+          "data-type='email'",
+          "input-type='email'"
+        ],
+        "answer": "type='email'",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the purpose of the `<template>` element in HTML?",
+        "options": [
+          "To declare reusable HTML structures that are not rendered.",
+          "To create a script block for JavaScript.",
+          "To define a section for server-side templates.",
+          "To create a custom element."
+        ],
+        "answer": "To declare reusable HTML structures that are not rendered.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "Which HTML tag is used for the main content of a document?",
+        "options": [
+          "<main>",
+          "<content>",
+          "<body>",
+          "<section>"
+        ],
+        "answer": "<main>",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

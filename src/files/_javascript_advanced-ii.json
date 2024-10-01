@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the 'this' keyword in JavaScript?",
+        "options": [
+          "It refers to the global object.",
+          "It refers to the object that is currently executing the function.",
+          "It refers to the previous function in the call stack.",
+          "It is used to create new objects."
+        ],
+        "answer": "It refers to the object that is currently executing the function.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What is a closure in JavaScript?",
+        "options": [
+          "A function that is executed when an event occurs.",
+          "A function that can access variables from its outer scope even after the outer function has finished executing.",
+          "A way to restrict access to variables in a function.",
+          "A method to create private variables."
+        ],
+        "answer": "A function that can access variables from its outer scope even after the outer function has finished executing.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "What are JavaScript Promises used for?",
+        "options": [
+          "To handle asynchronous operations.",
+          "To create new functions.",
+          "To manage memory usage.",
+          "To define object properties."
+        ],
+        "answer": "To handle asynchronous operations.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the event loop in JavaScript?",
+        "options": [
+          "A mechanism that allows JavaScript to perform non-blocking operations.",
+          "A way to loop through events in an array.",
+          "A function that creates new event listeners.",
+          "A method to synchronize multiple threads."
+        ],
+        "answer": "A mechanism that allows JavaScript to perform non-blocking operations.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What does 'hoisting' mean in JavaScript?",
+        "options": [
+          "Moving function declarations to the top of their containing scope.",
+          "The process of compiling JavaScript code.",
+          "The ability to define a function after it is called.",
+          "The process of importing modules."
+        ],
+        "answer": "Moving function declarations to the top of their containing scope.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "What is the difference between '==' and '===' in JavaScript?",
+        "options": [
+          "'==' compares values, while '===' compares both values and types.",
+          "'==' compares types, while '===' compares values.",
+          "'==' is used for strict equality, while '===' is for loose equality.",
+          "'==' is used for object comparison, while '===' is for primitive types."
+        ],
+        "answer": "'==' compares values, while '===' compares both values and types.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the purpose of the 'bind' method in JavaScript?",
+        "options": [
+          "To create a new function with a specific 'this' value.",
+          "To bind two functions together.",
+          "To connect events to functions.",
+          "To create closures."
+        ],
+        "answer": "To create a new function with a specific 'this' value.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What is the significance of the 'async' and 'await' keywords?",
+        "options": [
+          "They are used to declare asynchronous functions and handle Promises more easily.",
+          "They define the order of function execution.",
+          "They manage memory allocation for functions.",
+          "They are used for creating new objects."
+        ],
+        "answer": "They are used to declare asynchronous functions and handle Promises more easily.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the purpose of the 'prototype' in JavaScript?",
+        "options": [
+          "To add properties and methods to all instances of a function.",
+          "To define the structure of an object.",
+          "To manage the scope of a variable.",
+          "To create closures."
+        ],
+        "answer": "To add properties and methods to all instances of a function.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "What is the difference between 'null' and 'undefined' in JavaScript?",
+        "options": [
+          "'null' is an assignment value, while 'undefined' means a variable has been declared but not assigned.",
+          "'null' means a variable has been declared, while 'undefined' means it has not.",
+          "'null' is a type of object, while 'undefined' is a type of function.",
+          "'null' is used for number types, while 'undefined' is used for string types."
+        ],
+        "answer": "'null' is an assignment value, while 'undefined' means a variable has been declared but not assigned.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  

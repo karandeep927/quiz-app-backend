@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": "What is the purpose of the `@classmethod` decorator in Python?",
+        "options": [
+          "It allows a method to access class variables and methods.",
+          "It defines a method that can be called on the class itself rather than on instances.",
+          "It enables the method to modify the class state.",
+          "All of the above."
+        ],
+        "answer": "All of the above.",
+        "selectedOption": -1,
+        "questionNumber": 1
+      },
+      {
+        "question": "What is a metaclass in Python?",
+        "options": [
+          "A class of a class that defines how a class behaves.",
+          "A type of function that returns a class.",
+          "A decorator used for creating classes.",
+          "A built-in type that represents types."
+        ],
+        "answer": "A class of a class that defines how a class behaves.",
+        "selectedOption": -1,
+        "questionNumber": 2
+      },
+      {
+        "question": "How can you create a generator in Python?",
+        "options": [
+          "By defining a function that uses the `yield` keyword.",
+          "By using a list comprehension.",
+          "By creating a class that implements the `__iter__()` method.",
+          "By using the `next()` function."
+        ],
+        "answer": "By defining a function that uses the `yield` keyword.",
+        "selectedOption": -1,
+        "questionNumber": 3
+      },
+      {
+        "question": "What is the difference between deep copy and shallow copy?",
+        "options": [
+          "Deep copy creates a new object and recursively adds copies of nested objects, while shallow copy creates a new object but inserts references to the original objects.",
+          "Deep copy and shallow copy are the same.",
+          "Shallow copy creates a new object, while deep copy modifies the original object.",
+          "Shallow copy is faster than deep copy."
+        ],
+        "answer": "Deep copy creates a new object and recursively adds copies of nested objects, while shallow copy creates a new object but inserts references to the original objects.",
+        "selectedOption": -1,
+        "questionNumber": 4
+      },
+      {
+        "question": "What is the purpose of the `with` statement in Python?",
+        "options": [
+          "To handle exceptions gracefully.",
+          "To simplify resource management by automatically closing resources.",
+          "To execute a block of code conditionally.",
+          "To create a context manager."
+        ],
+        "answer": "To simplify resource management by automatically closing resources.",
+        "selectedOption": -1,
+        "questionNumber": 5
+      },
+      {
+        "question": "How do you implement method overloading in Python?",
+        "options": [
+          "By defining multiple methods with the same name but different parameters.",
+          "By using default parameters in a single method.",
+          "By using variable-length arguments in a single method.",
+          "Python does not support method overloading."
+        ],
+        "answer": "Python does not support method overloading.",
+        "selectedOption": -1,
+        "questionNumber": 6
+      },
+      {
+        "question": "What is the purpose of the `__init__` method in a class?",
+        "options": [
+          "To initialize an instance of a class.",
+          "To create a class attribute.",
+          "To define class methods.",
+          "To call the parent class constructor."
+        ],
+        "answer": "To initialize an instance of a class.",
+        "selectedOption": -1,
+        "questionNumber": 7
+      },
+      {
+        "question": "What does the `*args` and `**kwargs` syntax mean in a function definition?",
+        "options": [
+          "`*args` allows passing a variable number of positional arguments, while `**kwargs` allows passing a variable number of keyword arguments.",
+          "`*args` is used for unpacking lists, while `**kwargs` is for unpacking dictionaries.",
+          "Both are used to define optional parameters.",
+          "They are used to enforce type checking."
+        ],
+        "answer": "`*args` allows passing a variable number of positional arguments, while `**kwargs` allows passing a variable number of keyword arguments.",
+        "selectedOption": -1,
+        "questionNumber": 8
+      },
+      {
+        "question": "What is the Global Interpreter Lock (GIL) in Python?",
+        "options": [
+          "A mutex that protects access to Python objects, preventing multiple threads from executing Python bytecode simultaneously.",
+          "A mechanism for managing memory allocation in Python.",
+          "A tool for optimizing the performance of Python code.",
+          "A security feature that prevents unauthorized access to Python code."
+        ],
+        "answer": "A mutex that protects access to Python objects, preventing multiple threads from executing Python bytecode simultaneously.",
+        "selectedOption": -1,
+        "questionNumber": 9
+      },
+      {
+        "question": "How do you handle exceptions in Python?",
+        "options": [
+          "Using `try`, `except`, and `finally` blocks.",
+          "Using `if` statements to check for errors.",
+          "Using `catch` blocks.",
+          "By defining error-handling functions."
+        ],
+        "answer": "Using `try`, `except`, and `finally` blocks.",
+        "selectedOption": -1,
+        "questionNumber": 10
+      }
+    ]
+  }
+  
