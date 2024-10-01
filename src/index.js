@@ -6,5 +6,5 @@ connectDB()
     app.listen(3000,()=>console.log("connected"))
 )
 .catch((err) => {
-    console.log("MONGO db connection failed !!! ", err);
+    console.log("MONGO db connection failed ! ", err);
 })
